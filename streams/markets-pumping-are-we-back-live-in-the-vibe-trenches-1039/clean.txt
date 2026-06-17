@@ -1,0 +1,806 @@
+[03:11] SPEAKER_00
+Hello, hello, everyone. Well, Alice, how's it going?
+
+[03:18] SPEAKER_02
+Good, We have a very new surprise we're opening up this stream to. It's a UI seen before.
+
+[03:27] SPEAKER_00
+I mean, we've
+
+[03:27] SPEAKER_02
+seen
+
+[03:29] SPEAKER_00
+we briefly showed it.
+
+[03:33] SPEAKER_00
+But today, we're diving a little bit more into V2. We're gonna list a couple of tokens that I have in my wallet. We're gonna buy one token with like two, three sol, and gonna list it. And yeah, to just getting an overall view on how V2 will be looking like. Again, this is still in production, of course, so things are subject to change. But it looks already much, cleaner. It's much,
+
+[04:03] SPEAKER_00
+smoother from the handling and from the UI and you know the usability. And overall, a big addition here: we got the major spec. So that is something we're gonna dive into next stream where we're gonna trade some majors. Today, as I said, still reserved for the vibe caps. However, we wanna do a little bit of market talks before we get into everything.
+
+[04:33] SPEAKER_00
+Last couple of days have been full of events. A preliminary deal has been, well,
+
+[04:43] SPEAKER_00
+you know, is going around at the moment, and the markets reacted relatively good to it. However, we don't know if this continues, be you know, staying that stable. There's all already been some words flying around that are not well received on both sides. So let's see. But
+
+[05:10] SPEAKER_00
+Aris, what do you think of the market currently, of all the movement of BTC moving ETH? Nia made some nice moves. What are you making of it?
+
+[05:20] SPEAKER_02
+It's insane. It's
+
+[05:22] SPEAKER_02
+yeah, you know, everyone was kind of, even I, you know, was expecting us to go lower. And I think we definitely
+
+[05:32] SPEAKER_02
+still could. You know, it's, it's not like the, again, this is how people felt at 80K or so. Like, oh, the bull market's back. Every little, you know, when there's a good pump for a couple of days, people feel like we're so back. Nothing's confirmed yet.
+
+[05:50] SPEAKER_02
+But it is some really nice, you know, price action to be having. I think, you know, we're still in that kind of classic
+
+[06:00] SPEAKER_02
+downtrend that's been happening since
+
+[06:06] SPEAKER_02
+next year kind of zoom out here.
+
+[06:10] SPEAKER_00
+Yeah, let's zoom out a little bit.
+
+[06:15] SPEAKER_00
+Everything is still a little slow. It's in production, but you know, and it might be also like my PC. Oh, yeah.
+
+[06:24] SPEAKER_00
+We have a little bit of an issue.
+
+[06:28] SPEAKER_00
+Let me see if we can
+
+[06:32] SPEAKER_00
+resolve this here.
+
+[06:35] SPEAKER_00
+Yeah, something is not working. We might want to lock this as a little bit of a testing error.
+
+[06:48] SPEAKER_00
+BTC chart, when you switch the
+
+[06:53] SPEAKER_00
+days to minutes, etc., it starts looking weird.
+
+[06:58] SPEAKER_00
+Well, anyways, Thiago, if you wouldn't mind, then switching quickly over to Aris so he can stream his so he can show his screen. And then we're able to talk about this a little bit better. Even though now it actually made some
+
+[07:15] SPEAKER_00
+recovery here on the chart.
+
+[07:17] SPEAKER_02
+Yeah, Yeah. And I think
+
+[07:20] SPEAKER_02
+I think it still has some juice left in it. I think like,
+
+[07:26] SPEAKER_02
+yeah, maybe up, you know, it could kind of head up to this 70 range. Test that next.
+
+[07:34] SPEAKER_02
+If we go higher than that, then it'll obviously, this is the big, like the kind of the EMA here.
+
+[07:41] SPEAKER_02
+It's kind of the main tester, right? I think, you know, with these in bear markets, there's never really like a
+
+[07:51] SPEAKER_02
+instant, you know, turnaround like that, right? Even in this one where we had it jump up, there was some chop for a much longer period than what we have right now. It's around two months roughly of chop. So for us to be down here
+
+[08:09] SPEAKER_02
+and instantly reverse in like,
+
+[08:13] SPEAKER_02
+oh my gosh, why is it not doing the thing?
+
+[08:19] SPEAKER_02
+It's a bit hard for me to show, but in like, I mean, it's been a week, right? Like we've been down kind of at that level for about a week there. And it's already,
+
+[08:30] SPEAKER_02
+yeah, it's already kind of reversing. So it feels like it's just a relief bounce. I think it's going to be pretty short-lived as much as I enjoy the strength there. I think we got to see at least something like this, right? Where we form kind of like a double bottom.
+
+[08:49] SPEAKER_02
+So we'll see. I don't know when it, where it's going to bounce to, right? But
+
+[08:54] SPEAKER_02
+usually it's never a straight line up as much as I would like it to be.
+
+[09:01] SPEAKER_00
+Yeah, yeah. I can, I can, I can see that. It's always the case, right? Like we don't, we're not going straight from 62K to like
+
+[09:14] SPEAKER_00
+120, 130k again. So the question will become how patient are people, right? Can they actually be as patient as the market needs them to be? And over time, people have just proven that they're not patient enough. So you probably have a lot of people that, you know, when ETH made that little spike to 1.1715 or whatever it was, they went fully long there. Right. And that's the emotional side of
+
+[09:43] SPEAKER_00
+trading where,
+
+[09:47] SPEAKER_00
+you know, like in a real world, we have to talk about market maker setups and everything like that. So this is a perfect setup for, you know. people controlling the markets on these different tokens to just take your money.
+
+[10:03] SPEAKER_02
+Yeah.
+
+[10:04] SPEAKER_00
+You laid your top
+
+[10:07] SPEAKER_00
+and you don't know where it goes from there, right? Why should it make another $200, $300 move based off what?
+
+[10:16] SPEAKER_00
+So, and that's, I guess, the big issue that we have is like we aren't patient enough and people don't trade their setups enough, right? Like, consistency is not consistently just hitting your PL. It's like consistency when your setup comes that you trade it then. If it comes 30 times a day or once a month, kind of doesn't matter if you trade strategically, right? With something in mind. And whoever doesn't and
+
+[10:46] SPEAKER_00
+just acts emotionally and sees a little spike and goes into the top there, they will lose out in the long run when it comes to perp trading. Or also, you know, just buying spot assets. Like, if you constantly buy tops, you're not going to make money.
+
+[11:05] SPEAKER_00
+So be patient, people. That's one of the biggest rules in this space. But let's look at ETH, actually. Do you have ETH up?
+
+[11:16] SPEAKER_00
+Let's find it.
+
+[11:26] SPEAKER_02
+Yeah, I mean, ETH's had on the long term, even worse price action than Bitcoin.
+
+[11:35] SPEAKER_02
+But I mean, just today, it's been performing very well
+
+[11:41] SPEAKER_02
+with its recovery. But
+
+[11:46] SPEAKER_02
+yeah.
+
+[11:49] SPEAKER_02
+It's not looking that strong, right?
+
+[11:52] SPEAKER_02
+No, no, I'm, you know, it's on the shorter frame. Of course, if you zoom out, it still has a way to go. I think it's going to be the same scenario, right? Where we come up and we tap this EMA, maybe maximum is going to come up to here. And then it's due for some chop.
+
+[12:14] SPEAKER_00
+Oh, yeah. There's a fat fucking liquidity pocket of people that are still holding there. Same with BTC. If they fall, it's like the last barrier, basically. Then we go down hard.
+
+[12:26] SPEAKER_02
+Yeah, yeah.
+
+[12:29] SPEAKER_00
+But yeah, let's see. I guess next days are very decisive here.
+
+[12:33] SPEAKER_02
+Yeah, yeah.
+
+[12:37] SPEAKER_00
+What would you do here in this scenario? Let's just say I put a gun on your chest and I'll tell you have to go short or long now. What do you do on BTC and ETH?
+
+[12:48] SPEAKER_02
+I wouldn't do either.
+
+[12:49] SPEAKER_00
+No, no, you have to.
+
+[12:52] SPEAKER_00
+It's either you do a short or long or I shoot you.
+
+[12:57] SPEAKER_02
+Okay. Well,
+
+[13:01] SPEAKER_02
+I guess, you know, if I have really low leverage, then I would enter a short now and
+
+[13:09] SPEAKER_02
+come back out kind of below this kind of in this area.
+
+[13:16] SPEAKER_02
+I think like it's, of course, it's, you know, momentum right now still. Multiple green candles is probably going to go a bit higher. And that's why I'm saying if I had to do it right now, it'd be a low leverage short. I think just the risk to return after it's been pumping non-stop, while we're still very much bearish, like in the long term, the risk to return to long here is now not as high. And so if I had a third option, I would
+
+[13:45] SPEAKER_02
+wait for a clear kind of rejection to happen. And then I would enter a short back down to this range
+
+[13:55] SPEAKER_02
+because it has to kind of bounce a bit before we go up or before we go lower.
+
+[13:59] SPEAKER_00
+So you could just see what first before you're short. What's the magic?
+
+[14:05] SPEAKER_02
+Yeah, I would just wait for the momentum to slow.
+
+[14:10] SPEAKER_02
+I mean, basically,
+
+[14:11] SPEAKER_00
+you would wait for tomorrow because probably something's happening already.
+
+[14:16] SPEAKER_02
+Yeah, It's also like it's kind of, I mean, I guess it's now Monday over in the US and whatnot as well, but it's was mainly a weekend pump happening, which never usually ends well for crypto. But it's like, it's like crypto also kind of front runs the news, you know, with against stocks and stuff. So
+
+[14:36] SPEAKER_00
+we'll see. Yeah, let's see. I mean, Donald Trump had a busy weekend, apparently. There was also the big event at the White House yesterday.
+
+[14:45] SPEAKER_00
+UFC Freedom 250. So he might be in a good mood and lets us enjoy the markets. the green markets for a couple of days longer until he decides to just, you know,
+
+[15:02] SPEAKER_00
+hurt everyone again. But knowing that, right, and knowing that we have a very, very like volatile head of state
+
+[15:15] SPEAKER_00
+in the US,
+
+[15:18] SPEAKER_00
+that's how you should frame your trading. You know, you shouldn't be super risky when you have a head of state that from one day to another
+
+[15:30] SPEAKER_00
+could literally destroy your whole position or all your positions. So, you know, I already see a trade war with China on the horizon.
+
+[15:44] SPEAKER_00
+I heard Iran is like pulling Russia and China into the peace deal to give more guarantees so it can't be that easily broken again. So there's still a lot of things that, you know, like we aren't sure about. Like it could well be in, you know, Israel saying that Lebanon is like, well, technically, you know,
+
+[16:06] SPEAKER_00
+free for all.
+
+[16:08] SPEAKER_00
+It's we're in a position currently where everything can happen again. Like, don't be certain about your positions, monitor them. Don't, you know, open along with high leverage and not a lot of margin and just go outside and have some fun. Because in a matter of hours, sentiment can swing in these volatile markets
+
+[16:39] SPEAKER_00
+because it doesn't tip a lot for the first domino. It doesn't take a lot for the first domino to fall. And
+
+[16:48] SPEAKER_00
+that's where you then have to get out of your position, right? It's the time in like a couple of years ago.
+
+[16:56] SPEAKER_00
+Someone told me when Jack and Joe, that just inherited a couple of thousand bucks from their grandmother are coming into the crypto space, are investing, that's the time that you should already be out or you should go out. Because that's when retail comes in, and that's where, you know, the people that make decisions in these kinds of markets will just take the money from retail. And if you're still in positions with them, you're going to get you're ending up basically in the
+
+[17:25] SPEAKER_00
+negative. So try to read the market. Try to be proactive here instead of reactive when you trade. And, you know, have risk and reward always in the back of your head. With that being said, I feel like, Tiago, if you wouldn't mind switching over to my screen right now, we want to list a couple of tokens or maybe like one or two today and just try out the new system, see how everything
+
+[17:55] SPEAKER_00
+works.
+
+[17:57] SPEAKER_00
+You guys can see here, everything looks a lot better. Like the design level is so much higher here.
+
+[18:08] SPEAKER_00
+You can see the different filters are active.
+
+[18:12] SPEAKER_00
+It's really, good to see
+
+[18:16] SPEAKER_00
+much, much more information. You have the volume, APR,
+
+[18:21] SPEAKER_00
+available OI that you can filter for in the last 24 hours of your pools, right? The chains, you have all your claimable rewards here, and some more info that will come soon. And the top earning pool for me is World Cup. So that being said, what we want to do now is
+
+[18:42] SPEAKER_00
+list a token or two, I feel like. Yeah, let's do that.
+
+[18:48] SPEAKER_00
+Let's list air coin. And then it reminds me I have to send back a token from one of our partners.
+
+[19:00] SPEAKER_00
+So
+
+[19:02] SPEAKER_00
+we have copied the address here.
+
+[19:07] SPEAKER_00
+We'll take Solana.
+
+[19:15] SPEAKER_00
+Let's see if everything works.
+
+[19:19] SPEAKER_00
+Yep, perfect.
+
+[19:22] SPEAKER_00
+Pulled everything here. Click on continue.
+
+[19:28] SPEAKER_00
+We'll put for air coin one of our partners. We'll put 100% buybacks.
+
+[19:36] SPEAKER_00
+And we will create a pool for this. Perfect.
+
+[19:45] SPEAKER_00
+Now, doesn't this look fucking sexy? Pardon my language here, everyone. And by the by way, the guys. way, guys, if you want to ask us something or, you know,
+
+[19:57] SPEAKER_00
+forward a token, somebody that you think we should work with, you want to try out Close Speeder, etc., let us know. Hit us up. We just finished our new referral onboarding form yesterday that we are now slowly sending out to more and more people for some feedback, of course, and of course to onboard more and more people. So, with that being said, we will
+
+[20:27] SPEAKER_00
+run over this
+
+[20:29] SPEAKER_00
+form
+
+[20:31] SPEAKER_00
+probably on Wednesday or Friday when we're streaming, where we're also showing the majors, which is one full stream again where we run through the form. We'll show you guys dashboard creation of your own referral for your own referral dashboard, etc., and how everything works there. We'll also have a nice video to show you and one video that is in the form that you can also check out already if you message us. Cool. That being said, let
+
+[21:01] SPEAKER_00
+me send in the air coin to the designated wallet.
+
+[21:08] SPEAKER_00
+Perfect.
+
+[21:11] SPEAKER_00
+That should be live in the pools now.
+
+[21:19] SPEAKER_00
+Let's look for it.
+
+[21:27] SPEAKER_00
+It might take us. Oh, that was the wrong address. Let's see. In progress, no.
+
+[21:36] SPEAKER_00
+Hmm. That's weird.
+
+[21:42] SPEAKER_00
+Should be it's also one out of
+
+[21:46] SPEAKER_00
+yeah, okay. Previous. Next. There's something. Aris, we gotta lock this here, please.
+
+[21:56] SPEAKER_00
+When I go to the like, I have 32 pools listed, but it shows one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve,
+
+[22:09] SPEAKER_00
+thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.
+
+[22:16] SPEAKER_00
+It doesn't show the next page. It should show.
+
+[22:24] SPEAKER_00
+Yeah, I have to click on show more, but it won't let me to the next page. Okay, let me quickly lock this error and send it to the devs.
+
+[22:37] SPEAKER_00
+While I'm doing that,
+
+[22:40] SPEAKER_00
+maybe you can take over for a second here.
+
+[22:50] SPEAKER_00
+Yeah, yeah, yeah, yeah, yeah,
+
+[23:14] SPEAKER_00
+Guys, sorry, I have to lock these errors here right away, so I'm not forgetting them. And it's easy for me to, you know, like forward them to the devs. So please don't mind me not talking for a second here. But what I wanted to say for next week, or not for next week, for the next stream, let us know the tokens that you want us to trade, the positions that we should take, the tokens that we should look at, talk about, give you guys maybe a nice little analysis
+
+[23:44] SPEAKER_00
+on. Anything goes on these streams. They are here to build the community, to test out vibe and what we're building here. So
+
+[23:54] SPEAKER_00
+you guys don't be shy and always let us know if you have anything on your mind.
+
+[24:00] SPEAKER_02
+Good.
+
+[24:03] SPEAKER_00
+I want to lock this error here real quick and then we can go on to trading a couple of tokens. I'm going to list one or two more and then we're going to also buy a token and get that one rolling. So
+
+[24:34] SPEAKER_02
+there we go. Sorry about that. My connection.
+
+[24:40] SPEAKER_00
+All
+
+[24:41] SPEAKER_02
+good.
+
+[24:43] SPEAKER_02
+We got some very bad weather here at the moment. A little storm going on.
+
+[24:54] SPEAKER_02
+No worries, I have just locked this arrow.
+
+[24:56] SPEAKER_00
+And then
+
+[24:57] SPEAKER_02
+the other one from before. Now we gotta see if we can find
+
+[25:05] SPEAKER_02
+air coin.
+
+[25:10] SPEAKER_02
+I love the feel of the new claimable rewards thing.
+
+[25:14] SPEAKER_00
+Yeah, yeah. It's nice.
+
+[25:20] SPEAKER_00
+It's weird.
+
+[25:25] SPEAKER_00
+So I send it.
+
+[25:29] SPEAKER_00
+Hmm.
+
+[25:32] SPEAKER_00
+Ah, Mia found it. Ah, Mia, you're lovely. Thank you very much.
+
+[25:39] SPEAKER_00
+It's weird because
+
+[25:41] SPEAKER_00
+it should show up here in the in progress.
+
+[25:58] SPEAKER_00
+Mia, are you in the beta, right?
+
+[26:07] SPEAKER_00
+But in beta, it shows, yeah.
+
+[26:11] SPEAKER_00
+Yeah, air coin just went through. Yeah, but I don't see it here. This is here's the deposit, the history, yeah. But the pools,
+
+[26:26] SPEAKER_00
+yeah, okay, that is. It's live.
+
+[26:36] SPEAKER_00
+Okay.
+
+[27:01] SPEAKER_00
+Okay, cool. Perfect. We found some errors. That is wonderful. All right, guys. To show you guys some more of the new V2 version, we will have the points live again. Community, the tenants' points, the training points.
+
+[27:21] SPEAKER_00
+The leaderboard, as you can see it here. There's a lot of people
+
+[27:27] SPEAKER_00
+trading here already and trying stuff out. And there's daily 100,000 points to grab. The community section where you can, you know, log in daily, you claim your Discord role.
+
+[27:40] SPEAKER_00
+You have can connect your social media. Then the challenges that are coming back.
+
+[27:48] SPEAKER_00
+So yeah, everything is pretty cool. And Aris, Leon, just asked me to take a screenshot. So if you wouldn't mind, can you quickly take a screenshot
+
+[28:01] SPEAKER_00
+of
+
+[28:05] SPEAKER_00
+this?
+
+[28:08] SPEAKER_00
+Yeah, this here.
+
+[28:11] SPEAKER_00
+So like I have here. First, this. So he sees the 38 tokens, the pools.
+
+[28:19] SPEAKER_00
+And then
+
+[28:21] SPEAKER_00
+this here, that I can't get to the next page.
+
+[28:24] SPEAKER_01
+You want to put your mouse over? Yeah. Okay.
+
+[28:27] SPEAKER_00
+Yeah, thank you. And then that I have to pick this here in the bottom. Then oh shit. Sorry. Wait, give me a second. That I have to pick this here, like this.
+
+[28:39] SPEAKER_01
+It shouldn't be
+
+[28:40] SPEAKER_00
+like that. No, it shouldn't be. Like, I should be able to click on page two, right? And not like
+
+[28:45] SPEAKER_00
+just click on show more.
+
+[28:48] SPEAKER_00
+And then it shows one of 50-50. Can you like make a picture then here? Like just another one. And just like forward it to me, please.
+
+[28:57] SPEAKER_01
+Okay, cool.
+
+[28:59] SPEAKER_00
+Yeah,
+
+[28:59] SPEAKER_01
+thank you.
+
+[29:02] SPEAKER_00
+Yeah, yeah, yeah. So,
+
+[29:07] SPEAKER_00
+okay.
+
+[29:09] SPEAKER_00
+Good.
+
+[29:10] SPEAKER_00
+So the next thing was the in progress.
+
+[29:16] SPEAKER_00
+But that we can't take a. Oh, yeah, we can.
+
+[29:22] SPEAKER_00
+I mean,
+
+[29:24] SPEAKER_00
+there's no screenshot to take if the thingy doesn't appear. So
+
+[29:31] SPEAKER_00
+why did Kibble got rejected? I don't get it.
+
+[29:39] SPEAKER_00
+We'll try to reload Skibble now.
+
+[29:45] SPEAKER_00
+Troll
+
+[29:52] SPEAKER_00
+We already it should have been refunded. This is so weird
+
+[30:01] SPEAKER_00
+We'll use this wallet here
+
+[30:06] SPEAKER_00
+Let's see
+
+[30:09] SPEAKER_00
+if this works
+
+[30:15] SPEAKER_00
+Yeah,
+
+[30:17] SPEAKER_00
+I know because I already refunded it
+
+[30:25] SPEAKER_00
+Can you take a screenshot of this
+
+[30:34] SPEAKER_00
+Okay, thank you send that to me as well, please
+
+[30:51] SPEAKER_02
+perfect thank you
+
+[30:53] SPEAKER_00
+see guys We're sorry, but this is very helpful for us here testing live
+
+[31:16] SPEAKER_00
+Okay, perfect wonderful wonderful wonderful
+
+[31:22] SPEAKER_00
+It should like I yes this is so weird Because there shouldn't be any deposit. I already withdrew troll like four weeks ago. Remember when it rejected
+
+[31:36] SPEAKER_00
+when I withdrew it
+
+[31:39] SPEAKER_00
+Yeah
+
+[31:43] SPEAKER_00
+Okay
+
+[31:46] SPEAKER_00
+No way did this get through see like this is so weird like it went through even what
+
+[31:57] SPEAKER_02
+No way
+
+[31:59] SPEAKER_00
+oh okay see I apparently I Like this is so weird didn't withdraw all the available OI
+
+[32:10] SPEAKER_00
+Like I have this in my wallet. I know exactly you know you know that we listed it right and then it didn't work and then we withdrew again like what the fuck
+
+[32:19] SPEAKER_00
+Okay, there's some stuff happening. Maybe it didn't withdraw everything, but anyways
+
+[32:26] SPEAKER_00
+I think it's a good display of us looking for these errors and trying to
+
+[32:34] SPEAKER_00
+good that I'm named Rapid Ape now, even though that's my Bob wallet.
+
+[32:42] SPEAKER_02
+Why
+
+[32:43] SPEAKER_00
+am I not
+
+[32:48] SPEAKER_00
+Minamo is Bob?
+
+[32:57] SPEAKER_00
+Okay, great. So we listed some tokens. We found some errors.
+
+[33:03] SPEAKER_00
+Sorry?
+
+[33:04] SPEAKER_01
+Maybe I'll be able to change my name back actually.
+
+[33:07] SPEAKER_00
+Oh yeah. Oh, by the way, shout out to our wonderful friends and lover of Simeo for breaking over 55 billion in total traded volume on the front ends, which Viber is part of. So very, cool. Yes, so what we want to do today is we want to buy a token and that we want to list. And then we are going to end the stream already.
+
+[33:37] SPEAKER_00
+I don't think we have to do all too much. Everybody saw the new version. We found some bugs. We're going to get to fixing there. And on Wednesday or Friday, you'll see the majors and the new onboarding form. And from there on out, everything should be super smooth when we get back next week with some new with some partners and some cool people that you guys should meet. So yeah, Aris, I need your knowledge and your
+
+[34:06] SPEAKER_00
+experience. What are we buying?
+
+[34:11] SPEAKER_01
+Let me take a look. Let's see what we got.
+
+[34:20] SPEAKER_01
+It seems like... Yeah, the game file has been pretty interesting on Solomon recently. On Solana, sorry.
+
+[34:32] SPEAKER_01
+Oh, there's Frag one. That's pretty cool.
+
+[34:42] SPEAKER_00
+Hmm frags fun. What is that?
+
+[34:47] SPEAKER_01
+It's a cool idea. Yeah, Yeah, no, it's just like a web game. You book, you play, and you pay Solana to win.
+
+[34:58] SPEAKER_01
+Oh, that's super cool.
+
+[35:02] SPEAKER_00
+Well, I guess then, you know what we do here? We're gonna buy
+
+[35:11] SPEAKER_00
+three Sol
+
+[35:14] SPEAKER_00
+Two Sol
+
+[35:17] SPEAKER_00
+Two Sol
+
+[35:19] SPEAKER_00
+1.5.
+
+[35:23] SPEAKER_00
+Yeah.
+
+[35:24] SPEAKER_01
+I want to try
+
+[35:28] SPEAKER_01
+to download some game data. Alright.
+
+[35:37] SPEAKER_00
+Alrighty, let's
+
+[35:45] SPEAKER_00
+grab that.
+
+[35:55] SPEAKER_00
+I don't know. Everything is so slow. What the fuck? This is crazy.
+
+[36:05] SPEAKER_00
+Okay, can't find this token.
+
+[36:23] SPEAKER_00
+Can't find that token yet. So
+
+[36:28] SPEAKER_00
+grabbing another one. I don't know what's up with all the wallets. Yesterday evening everything was like
+
+[36:36] SPEAKER_00
+not working. And today everything is super slow again. I might have to check some things on my PC.
+
+[36:52] SPEAKER_01
+Yeah, interesting.
+
+[36:54] SPEAKER_00
+Yeah, I don't know.
+
+[36:56] SPEAKER_01
+Yeah.
+
+[37:00] SPEAKER_00
+Yeah, I can't find that token.
+
+[37:09] SPEAKER_00
+What else do we have? I mean, we listed Kintara last week, which was super good.
+
+[37:17] SPEAKER_00
+The Mr. Turtle.
+
+[37:32] SPEAKER_01
+I don't know.
+
+[37:33] SPEAKER_01
+I sent some Solana to my wallet to play it, and it's not showing up.
+
+[37:43] SPEAKER_01
+Let's see.
+
+[37:45] SPEAKER_00
+You know what we're gonna do? We're gonna wait until we can grab this frag fun and we can list it. And then we're gonna do that in the next couple of hours or days.
+
+[37:56] SPEAKER_00
+And if it dies until then, well, sad.
+
+[38:08] SPEAKER_00
+We're just gonna
+
+[38:11] SPEAKER_01
+yeah, yeah,
+
+[38:12] SPEAKER_00
+yeah. What we're gonna do is like
+
+[38:16] SPEAKER_00
+buy a couple of soul more probably of
+
+[38:19] SPEAKER_00
+troll here.
+
+[38:21] SPEAKER_01
+Oh no,
+
+[38:22] SPEAKER_00
+okay. We'll just add that to the liquidity.
+
+[38:27] SPEAKER_01
+Yeah, No, I was just checking out this.
+
+[38:33] SPEAKER_01
+So I was trying to
+
+[38:43] SPEAKER_01
+manual deposit. Like you just give it to the wallet address, but then you have to do it from like the connected wallet. And so I guess they just keep it if you don't do that properly.
+
+[38:55] SPEAKER_01
+That's all good.
+
+[38:59] SPEAKER_00
+Yeah, we'll buy two sol more of frog frog of troll
+
+[39:06] SPEAKER_00
+then we're gonna list it
+
+[39:25] SPEAKER_00
+It's all good me I saw that like the the thingy with
+
+[39:32] SPEAKER_00
+troll is like I me and Argus bought that four weeks ago
+
+[39:38] SPEAKER_00
+but for some reason it got rejected and then I withdrew it again and it still showed up in the dashboard all the time in the pools page and I don't know what's wrong today. However, like when I withdrew something was left over probably
+
+[39:57] SPEAKER_00
+so I just clicked on retry and it actually instantly listed it. So that's why we're going to add more liquidity to it.
+
+[40:05] SPEAKER_00
+But guys,
+
+[40:08] SPEAKER_00
+everything is super super slow today. Leon has already pushed some fixes here. I've reported some bugs to him or we reported some bugs to him. We're going to, of course,
+
+[40:20] SPEAKER_00
+try out more and more over the coming weeks. We're happy for your feedback, guys. If you need access, please hit us up with a DM. Please let us know that you want to come on board and join the VIPE train, basically. And we'll set you up with an account, etc. Everything, so you can go through it and try out everything yourself. For today, it was a pleasure as always. And
+
+[40:51] SPEAKER_00
+guys, again, don't mind us doing these shorter streams where we just try out things, you know, where we just again figure out how
+
+[41:03] SPEAKER_00
+Vibe behaves when our traders go there daily so we can also understand where their feedback is coming from. For us, it's important that we test in the open and build in the open. And during our next stream, you will also see some fixes. With that being said, next stream, onboarding form and referral codes that we go through or referral program. Plus, we're going to trade some
+
+[41:33] SPEAKER_00
+majors and we're going to have a little bit fun there. We bring some cool people on stream next week, maybe even this week already. And, you know, what I really like is that little news section down there. But yes, gentlemen, ladies, and everyone in between and outside, thank you very much for joining in today, watching, and big love to you all. You have a wonderful rest of your day. And we
+
+[42:03] SPEAKER_00
+will see you on Wednesday. Thank you, Agas, as always, for co-hosting with me. And everyone has a wonderful day. Take care, everyone. Yes. Bye-bye.
+
+[42:14] SPEAKER_00
+Thanks,
+
+[42:14] SPEAKER_01
+guys.
+
+[42:15] SPEAKER_00
+Have a good week.
