@@ -1,0 +1,815 @@
+[03:04] SPEAKER_02
+All right, we should be live, right?
+
+[03:08] SPEAKER_01
+We are. Hello, hello.
+
+[03:10] SPEAKER_02
+Hello.
+
+[03:12] SPEAKER_02
+How's it going? Welcome, everyone. Thanks for tuning in. I don't know why it doesn't show up on our Twitter page.
+
+[03:22] SPEAKER_01
+Really?
+
+[03:23] SPEAKER_02
+Yeah, like maybe it might be just me.
+
+[03:30] SPEAKER_01
+No, no, it's all good. There we are. Okay, well, good.
+
+[03:37] SPEAKER_02
+Yeah, so welcome, everyone. Thanks for tuning in. Today, we're gonna have a little shorter stream as we all have a lot of meetings and a lot of other things to do. And I am also not hyper-hyper fit as everything basically hurts. So, yeah, let's basically get to it. Today, as always, with me, my wonderful co-host Aris.
+
+[04:03] SPEAKER_02
+Aris, I hope you're doing well. I hope you had a good weekend.
+
+[04:08] SPEAKER_02
+So,
+
+[04:10] SPEAKER_02
+what's happening here? Like, a lot of dumps in the market, a lot of uncertainty, and then all of a sudden, we're going back up. So, what's happening? Do you have any good explanation for it?
+
+[04:24] SPEAKER_01
+Well, I'm not sure if you saw it recently, but Sailor just bought back around 100 million of Bitcoin
+
+[04:34] SPEAKER_01
+after like 1500 Bitcoin after dumping the 32. Yeah, Bitman
+
+[04:41] SPEAKER_02
+also just bought, I think, 200 million worth of ETH. So,
+
+[04:45] SPEAKER_01
+yeah, yeah, But it's like, you know, because it caused so much panic and so much fear around him selling that. And then he just got in with,
+
+[04:55] SPEAKER_01
+I don't even know what times the amount, way more for like about. 50 times the amount he sold at a way lower price. And it's a bit of a you know reverse on everyone else who uh dumped into that fear there. But but yeah, I mean, um,
+
+[05:16] SPEAKER_01
+about the market, I don't know. I, you know, it never
+
+[05:21] SPEAKER_01
+that was kind of the most insane dump we've seen in a in a long time. Um, I think like if you check the RSI
+
+[05:33] SPEAKER_01
+and actually how low that is on like the daily, for example, it's like it's like one of the lowest ever. I think it was the lowest ever, actually, which is insane. Yeah, um, yeah, yeah, 17 or something. It's about the lowest since like 2020. Okay, um, yeah, 2019 was definitely lower, but six years or something, right? So it's, I don't know, it, it's
+
+[06:02] SPEAKER_01
+like, it never like the bear market, there's always kind of like a stagnant period, right? Where people think like, oh, it's just not going to go back up. And that's where people are accumulating and stuff. And so I do think we have to test the bottom a little bit more, but we haven't really seen, yeah, I mean, you can't drop that much without pulling back somewhat. So we'll see. But I do think we go a little bit lower. We at least test this kind of bottom range again.
+
+[06:32] SPEAKER_01
+Maybe like 56k max, one more kind of sweep below. And then, yeah, I'd say it's
+
+[06:43] SPEAKER_01
+a possibility for it. I mean,
+
+[06:45] SPEAKER_02
+you know, in a perfect world, we have peace tomorrow. Yeah. And like, you know, people sign agreements and shit like that. But so far, we've never went perfect, right? So it might have just been a quick relief of some steam to know to not completely blow off the lid, right? So that could be one of the factors. But I mean, you know, in general, inconsistency in politics
+
+[07:16] SPEAKER_02
+gives the stock market normally warned to, you know, do whatever it wants. This time we just see the biggest discrepancy ever. It's like inflation is super high. Yet, however, stocks, you know, were doing wonderful up until the SP 500 last week. We had a little dump
+
+[07:37] SPEAKER_01
+there,
+
+[07:38] SPEAKER_02
+but you know.
+
+[07:40] SPEAKER_02
+So
+
+[07:41] SPEAKER_02
+I'm thinking about what really comes from this. Is it not maybe something that we're just at the moment in a channel that is like
+
+[07:52] SPEAKER_02
+designed for fear, right? Everybody that bought in here and bought the plus 70, 80, 90k in that channel is full of fear right now.
+
+[08:05] SPEAKER_02
+So I want to see how this plays out if we go higher, if people start taking profits early, or if people want to really ride it out this time. So
+
+[08:16] SPEAKER_02
+we'll have to see and wait, I guess. But it's interesting. And while we're doing that, basically,
+
+[08:24] SPEAKER_02
+let's list, I don't know, two, three, four tokens here.
+
+[08:29] SPEAKER_02
+And then we'll go straight to your screen. We'll do a couple of trades. We'll look at a couple of tokens. And then we'll buy one or two of those tokens from Dexcreena on Sol. So what do you think?
+
+[08:43] SPEAKER_01
+Sounds like a plan. Let's do it.
+
+[08:46] SPEAKER_02
+Good. Then let's list some base tokens.
+
+[08:51] SPEAKER_02
+Give me a
+
+[08:52] SPEAKER_01
+second. I gotta actually, yeah, I'll need to let me redeposit into my Vibe account because I wasn't watching those trades we placed before. And
+
+[09:04] SPEAKER_01
+not much left that you could say.
+
+[09:06] SPEAKER_02
+Oh, well, you should watch the trades, of course.
+
+[09:09] SPEAKER_01
+I should, yeah,
+
+[09:12] SPEAKER_01
+Brother. Well, you know, the market kind of just
+
+[09:16] SPEAKER_01
+died. So,
+
+[09:18] SPEAKER_02
+yeah, true.
+
+[09:21] SPEAKER_01
+And low caps is leverage that happens. All right.
+
+[09:24] SPEAKER_02
+So we're going to list that Bury the Badger Base PayPay in Kibble.
+
+[09:31] SPEAKER_02
+Let's go.
+
+[09:34] SPEAKER_02
+Let's copy the contract.
+
+[09:43] SPEAKER_02
+Works. Base contract address in.
+
+[09:49] SPEAKER_02
+Okay, that's accurate. I
+
+[09:51] SPEAKER_01
+like
+
+[09:51] SPEAKER_02
+that.
+
+[10:03] SPEAKER_02
+Dead use address
+
+[10:07] SPEAKER_01
+all the dead
+
+[10:10] SPEAKER_02
+works B941.
+
+[10:18] SPEAKER_02
+And we'll send that in.
+
+[10:22] SPEAKER_02
+Click on done and we should be ready there.
+
+[10:27] SPEAKER_02
+Let's create another pool. Bury the badger.
+
+[10:34] SPEAKER_02
+Let's just quickly check it if it's accurate.
+
+[10:46] SPEAKER_02
+Well, I mean, it's the address, but you can't find it. Let's see if we can pull the pool.
+
+[10:56] SPEAKER_02
+You can actually, but there's maybe some
+
+[11:02] SPEAKER_01
+little issue there.
+
+[11:05] SPEAKER_02
+Because if it went up in the last 24 hours,
+
+[11:10] SPEAKER_02
+then it would have had some trades on it and it should show on deck screen, all right? Or maybe it just went up because ETH went up, right? Could also be
+
+[11:20] SPEAKER_01
+that
+
+[11:21] SPEAKER_02
+and there weren't any trades, but it was just ETH going up.
+
+[11:28] SPEAKER_02
+Could be. Well, see if it gets rejected. We'll see the issue then.
+
+[11:37] SPEAKER_02
+Good. Second one. I like this. goes super quick. Like listing tokens. This is enclosed beta is like, you know, already super, super smooth. So can't wait for people to see. Oops.
+
+[11:55] SPEAKER_02
+When we go into
+
+[11:56] SPEAKER_01
+V2,
+
+[11:56] SPEAKER_02
+it's going to be really good.
+
+[11:58] SPEAKER_01
+It'll
+
+[11:59] SPEAKER_02
+be really, good. Yes.
+
+[12:03] SPEAKER_01
+I can only imagine the
+
+[12:06] SPEAKER_01
+like I'll find a partnership, for example, in the future.
+
+[12:11] SPEAKER_01
+Where you're launching a token and you automatically choose like, I don't know, 5% of what you buy just of the supply just goes directly into Vibe. That'd be a very,
+
+[12:23] SPEAKER_01
+yeah, cool feature for the trenches.
+
+[12:27] SPEAKER_02
+Yeah, I mean, here's the thing, right? Like over time,
+
+[12:34] SPEAKER_02
+we will 100% build more and more cool things for the trenches, right? Even if it's just a little tool or anything, right, that you just said, like those things we can for sure tackle once Vibe is fully live and stable and you know
+
+[12:51] SPEAKER_01
+has the
+
+[12:52] SPEAKER_02
+liquidity and has the traders, etc. And we're fully live running. Then we can also put some priority on other things.
+
+[13:02] SPEAKER_02
+Oh, yes. Hey, everyone. Just so you know, we have Lava joining us for today. Lava's going to talk a little bit with us. So thank you very much, Lava, for coming in. How are you doing?
+
+[13:15] SPEAKER_02
+Yeah, yeah. I saw. Yeah,
+
+[13:18] SPEAKER_02
+So sorry to, I interrupted you very rudely. You wanted to say something?
+
+[13:23] SPEAKER_00
+Yeah, I think
+
+[13:25] SPEAKER_00
+other people can just build a launch pair, right? That launches tokens directly on Vibe. Don't think Vibe itself has to build
+
+[13:36] SPEAKER_00
+it.
+
+[13:38] SPEAKER_02
+Yeah, and I mean, we have the community builders program as well, right? That we're announcing very soon, where we already have the first and the second participant building cool new tools basically on top of Vibe. So there's always going to be things to do and lovely things to take care of, basically.
+
+[14:00] SPEAKER_02
+But I see
+
+[14:01] SPEAKER_00
+it like that. As soon as Vibe is doing like 10, 50 million daily volume, you're going to have 100 projects a month building around Vibe.
+
+[14:14] SPEAKER_02
+Yeah,
+
+[14:14] SPEAKER_00
+exactly. Because it's a new primitive, you know, like when Uniswap launched or like when Uniswap started to doing volume in like 2020,
+
+[14:26] SPEAKER_00
+you had thousands of projects. I mean, they call it now DeFi summer. That's true. What it really was was people discovering what you can do with Uniswap. Exactly. With the LPs, like you can build projects around the LPs. You can list your own project on Uniswap and do something with that. You can fork Uniswap. That was also a big thing. But it was just all around
+
+[14:56] SPEAKER_00
+building on Uniswap. And that's typical if you have a new primitive. I really think that we
+
+[15:10] SPEAKER_00
+didn't really have, we didn't really have that type of primitive for like a long time. If you look at PumpFun, great. Okay, what did they really build around that? It's just terminals, right? Just user interfaces. Now we have Hypolyque. What are they really building around that? It's basically just token list. They list other tokens. So you have trade XYZ. They're just listing commodities. It's not like
+
+[15:39] SPEAKER_00
+they're building something other than an interface with a specific token.
+
+[15:47] SPEAKER_00
+But here with Wipe, you have basically unlimited possibilities as you have now a new type of dimension in the token listing. So you have unison and you have leverage shorting. You have yield, something that
+
+[16:04] SPEAKER_00
+basically no project has, right?
+
+[16:08] SPEAKER_00
+Nothing crypto can generate yields out of itself. You always need some type of lending market or it's inflationary.
+
+[16:17] SPEAKER_00
+Or you have like the LP of the impermanent loss where everyone already like it's done, right? There's no nothing cool you can do with that as well. So yeah, I don't think WIPE should be building all of that stuff themselves. Takes away the.
+
+[16:36] SPEAKER_02
+Oh, yeah, 100%.
+
+[16:39] SPEAKER_02
+You're right. And I think that's the cool thing, right, with Vibe. There's a little bit of something to build for everyone, kinda. Like there's 100 different things you can do and they will always benefit your ecosystem. Yeah, millions of
+
+[16:53] SPEAKER_01
+things.
+
+[16:55] SPEAKER_02
+So
+
+[16:57] SPEAKER_02
+that's a good part. But one step back to
+
+[17:02] SPEAKER_02
+what one can do with Vibe, like let's let's go through it maybe one by one, right? Where it's probably very, interesting for all the people out there to understand, okay, what are the benefits to becoming or to being an LP on Vibe, right? To won multiple tokens. What are the benefits to the traders, the community members, right? When they can drive different strategies and so on. So I think we should start
+
+[17:32] SPEAKER_02
+with, you know, the biggest elephant in the room, which I would say are LPs, right? What are the actual benefits for LPs with Vibe? Like we had a lot of people ask in the last couple of weeks. So, you know, just wanted to
+
+[17:49] SPEAKER_00
+reflect on that
+
+[17:49] SPEAKER_02
+subject.
+
+[17:50] SPEAKER_00
+In my opinion, if you like, a lot of people are thinking that finance is this complex, abstract
+
+[18:01] SPEAKER_00
+thing. But if you distill it down to what it really is, is there's two sites. One is a site that has a lot of assets, a lot of value. They hold a lot of value. And then you have the other side, they want exposure.
+
+[18:22] SPEAKER_00
+So if you have someone holding a lot of value, then he wants yield. So if you have someone holding a lot of assets in a token, then he wants yield on that asset. And then there's the other side that maybe wants exposure to these assets. In the typical financial world, you have to go through a trillion hoops in order to make your assets earn yield. Maybe most of the assets are so regulated, you have to pay like 50
+
+[18:52] SPEAKER_00
+middlemen until you can earn some yield. Or you just get the yield that is like the base yield. And what is that base yield? Really, there's on the other side, there's people that want exposure. If you go to banks, there's people that lend an asset and people that borrow an asset. But in the banking world, that is so stripped down and regulated that you don't even get any of that real yield.
+
+[19:21] SPEAKER_00
+Or you can have real estate and then you rent it. And then you have lots of issues as well because there's also so much middleman regulation and risks involved. But what WIPE is doing is that it takes this concept and it brings it to every token. Now, every token has a predefined, permissionless, easy and simple way. You just go on the pools page and you click new pool and you create that financial asset, which is on one side. one side, you have
+
+[19:51] SPEAKER_00
+a whale that wants APR and yield, and on the other side, you have someone who wants exposure. And it's the simplest, most basic, and most fundamental part of any financial economy. I think a lot of people are not realizing and they look at WIPE that it is exactly that. So it's like WIPE is, in my opinion, is the base primitive. Everything else is built on top of something like WIPE. Because first, you need to solve
+
+[20:21] SPEAKER_00
+the basic financial need, which is on one side, you have guys with a lot of assets, and on the other side, you have guys that want exposure to these assets. WIPE connects these two together. And then obviously, maybe some tokens, there's a lot more people that want yield than there's people that want exposure, right? But that's that's asset
+
+[20:42] SPEAKER_00
+unique to the asset itself.
+
+[20:45] SPEAKER_02
+And there's also people that want to maybe change the way they are exposed to something, right? When we talk about just with an L with a perps market coming different existing trading strategies that you can now employ as a holder, right?
+
+[21:03] SPEAKER_00
+When I say exposure, I mean any exposure, it can be long, short, leveraged. You know, it doesn't mean it's just that. You know, some
+
+[21:13] SPEAKER_00
+it's it's all like you have to realize it. It's all finance is only that. It's like exposure and holdings and yield APRs. That's it, you know, there's nothing else. Everything else is just a different way of expressing that view.
+
+[21:32] SPEAKER_02
+Yeah. And staking is like a dry aged beef basically that you just leave a little bit longer in and then it is worth a little bit more, probably. So you can always, you know, make
+
+[21:44] SPEAKER_00
+it always depends how the yield is generated, you know.
+
+[21:47] SPEAKER_02
+Yeah, of course.
+
+[21:48] SPEAKER_00
+If yield is just inflationary, then the staking is bullshit.
+
+[21:52] SPEAKER_02
+100%
+
+[21:53] SPEAKER_00
+like if you're if your yield is generated by people looking to get exposure to the asset, then it's like real, real yield, you know.
+
+[22:01] SPEAKER_02
+And I had this talk last week with someone, um, and this fits perfectly what you just said, just real quick. Like the person basically told me, is like, hey, we got staking and everybody's earning more tokens. But at one point, they want to sell and then they, you know, they're going to hurt the chart. So, and like, basically, the answer from me was VIP can help them realize, right, in USDC. They don't have to sell. They can just bootstrap a pool LP and realize with the USDC cash they're making
+
+[22:31] SPEAKER_02
+basically. So it also helps projects to lessen the fall, basically. I feel like.
+
+[22:38] SPEAKER_00
+Would
+
+[22:39] SPEAKER_01
+you agree with
+
+[22:40] SPEAKER_02
+that?
+
+[22:41] SPEAKER_00
+The projects are just on the side that or the stakers are just the ones that hold the asset. You know,
+
+[22:49] SPEAKER_00
+it's very simple. If the asset doesn't generate yield, a holder at some point will sell. That is just natural. That is a bit, it's like just basic human psychology. But the crypto market is so early that actually nothing is really working. That's where we're doing all these weird things. We don't even have the most basic financial tools in crypto. That's how early we really are. I mean, and most of the users
+
+[23:19] SPEAKER_00
+don't really see it. Like we have now again, like this bear market that we're in right now. I feel for me, it feels like 2018 because everyone is losing hope. Everyone is saying, oh my God, it's over. Now the AI will just hack every project. In reality, it's just like 2018 where people were max depressed. In my opinion,
+
+[23:46] SPEAKER_00
+we don't even have the most basic financial primitives on
+
+[23:51] SPEAKER_00
+chain right now. We have something where people can lend, okay, but it doesn't work. It only works for the top 50 or top 20 assets. We have order books that can launch perps, but yeah, but it doesn't work for everything. And then we have Uniswap where everyone and PumpFund, where everyone can launch a token, but it's just a spot asset. It doesn't generate yield. So people can just dump it. There's nothing to do. So in that regard, we are like super, super, super early. And meanwhile, other people are
+
+[24:20] SPEAKER_00
+thinking like, oh my God, we're already done. It's already, everything was already done and there's nothing left. And actually, the industry is over because Sailor is dumping 32 Bitcoin. That's really
+
+[24:36] SPEAKER_02
+the threat the industry is hanging on, right? That's basically the Democles sword hanging above us. It's like Sailor sold 32 Bitcoin. The market's shit. Like everybody is fear. You is in fear. now. So it's also like, you know, how frag, how like, what do you say, frag fragile our ecosystem is, right? Because it just like builds on a couple of people.
+
+[25:01] SPEAKER_00
+If you're early to something, then every corner looks like the last corner. There's only a few people that actually can see a vision where it's heading.
+
+[25:13] SPEAKER_00
+Just as a compersion, if you look internet companies before 2000, right? And I wouldn't say I think crypto as a market with Bitcoin, as an asset, it's quite mature. But DeFi, I'm talking mainly about DeFi, so on-chain finance, is very, very immature and still very, basic in what can be done. I mean, launching
+
+[25:43] SPEAKER_00
+tokens that everyone can launch tokens is a biggest innovation that crypto brought forward. But these assets that are being launched are totally boring and there's nothing to do with them. And it's no financial infrastructure around them. So WIPE is really, WIPE looks like it's this goofy platform with everything is like me and like, but it's actually the most innovative financial application probably
+
+[26:13] SPEAKER_00
+of the decade or maybe even more. Because
+
+[26:18] SPEAKER_00
+being able to just strip down any asset to its core fundamental value, which is yield and exposure, and just enabling anyone to express that view, right? If you have an asset, you want yield. If you don't have the asset, you want exposure. That's like, that's pure, pure, pure finance. And it's really, I think many people look at Vibe and they don't really get it. And I think that's going to change soon because smart people will get it.
+
+[26:49] SPEAKER_00
+So yeah, and I feel like a lot of we see more and more and more. So when I'm listening to what you guys are doing and following in the chats we have together and seeing screenshots of what people and QLs are telling you, then I feel like more and more people are waking up.
+
+[27:09] SPEAKER_02
+Yeah, yeah. It's just always been the thing of customer education, right? Like every time you bring something that is a new frontier, where you say people only see the next as the last corner, right? Then it's always hard to,
+
+[27:25] SPEAKER_02
+you have to give them some time to wrap their head around something that is so completely different from all the existing things, right? And that brings us, I think, to the next point, which I think why VIPE also is so interesting. We have so many assets that are now becoming or getting tokenized. And all these assets, as you said, they're only assets if there's like a secondary, right? Or like something there that makes
+
+[27:55] SPEAKER_02
+the market whole, basically. So with having these RWAs becoming more prominent and more tokenizations coming in, how would VIBE fit in there in your mind?
+
+[28:12] SPEAKER_00
+Again, same thing. Anyone who has an asset wants yield. Anyone who doesn't have the asset wants exposure.
+
+[28:22] SPEAKER_00
+So what
+
+[28:23] SPEAKER_02
+would these people do? They would come to Vibe, right? They would create a new pool. And instead of,
+
+[28:31] SPEAKER_02
+you know, like being
+
+[28:33] SPEAKER_02
+holding the asset for months or months to come
+
+[28:36] SPEAKER_01
+and
+
+[28:36] SPEAKER_02
+then being fed up with it and selling it for sometimes even a loss, they would be able to just, you know, shelter the asset a little bit better and just yield of it on a constant basis. Is that correctly explained?
+
+[28:53] SPEAKER_02
+Yeah. Yeah.
+
+[28:55] SPEAKER_00
+I guess, you know, in a sense, look, let's say you have a car, you don't want the car anymore. You need a platform to sell it. Okay. Yeah. You have a you have a house, you want to rent the house, you need a platform to rent the house. What are you doing in crypto right now if you want to earn yield on your asset?
+
+[29:18] SPEAKER_02
+Putting
+
+[29:19] SPEAKER_00
+it
+
+[29:22] SPEAKER_00
+doesn't list it. Ave has has not listed it. Got to go through 18,000 DAO proposals until I get my asset listed. What do I
+
+[29:31] SPEAKER_02
+do?
+
+[29:33] SPEAKER_02
+I put it, I don't know, like maybe somewhere at a third grade lending market.
+
+[29:40] SPEAKER_00
+Doesn't work. They're not going to list it. Chainlink doesn't support it as Oracle. they only have Chainlink Oracles.
+
+[29:48] SPEAKER_02
+Um,
+
+[29:50] SPEAKER_02
+oh, I'm running out of options here.
+
+[29:53] SPEAKER_00
+You see, it's like the most basic need for a financial asset is that it has it can somehow be productive and earn yield, otherwise, there's like no reason. Like, imagine from tomorrow renting out houses would be not possible anymore, like renting out a house. The housing market would collapse next day, yeah. There's no if my house doesn't earn any
+
+[30:23] SPEAKER_00
+yield, then what you know, it's done, you won't even find buyer. Um,
+
+[30:32] SPEAKER_00
+for a car, it's different, you know, like it's a bad composition because you can use your car to get somewhere, right? I mean, you can also just live in your house, and maybe that will also be a much better future. Stop speculating on assets that people actually need for their life and start speculating on assets that are just financial products.
+
+[30:52] SPEAKER_00
+So, in crypto right now, we do not even serve that basic need. Vibe is here to change that, and I think it's true innovation, it's true, yeah, pioneering spirit, and
+
+[31:10] SPEAKER_00
+it's on purpose that this website is being done so in this goofy and like funny look with that. I
+
+[31:20] SPEAKER_02
+would call it entertainment
+
+[31:21] SPEAKER_00
+entertaining way, yeah. I think, but it's it's on purpose that it's done like that, in my opinion,
+
+[31:31] SPEAKER_00
+because
+
+[31:34] SPEAKER_00
+it makes it even
+
+[31:36] SPEAKER_00
+funnier, you know, that this website is actually beating all of finance, all of Wall Street, um, in all possible ways, and it looks like uh, yeah,
+
+[31:50] SPEAKER_00
+it looks like it looks like,
+
+[31:52] SPEAKER_02
+yeah, I mean, it's entertainment, right? It's not just
+
+[31:56] SPEAKER_02
+it's built for literally everyone, right? And like, that's where we have to just say, like, entertainment is coming short in this space, right? Um, so building something that with its use is just entertaining and is fun to use and is fun to look at, is also you know, a big, thing that the industry is sometimes not even taking seriously. So, um, that's why, you know, Vibe is also
+
+[32:26] SPEAKER_02
+like you would you would recognize Vibe from like a thousand other perp dexes, right? And that's the thing,
+
+[32:33] SPEAKER_01
+that's
+
+[32:33] SPEAKER_02
+the exact brand, and then that's exact marketing. That's the little star that you want, so it's recognition. And I feel like that's what where Vibe comes in so heavy for me: is like it actually does something for these daily news traders, right? There's so many tokens launched daily because something happened again in the market, and most of the time you're just late to those tokens, you know, you like it's hard for you to get exposure. So, if it's listed on
+
+[33:03] SPEAKER_02
+Vibe, you can much easier build your position in a much more capital-efficient way, right? Without having to
+
+[33:11] SPEAKER_02
+be basically always early, and in general, you know, you can long all the awesome tokens, and should there be a bad one, you can even short it.
+
+[33:25] SPEAKER_02
+So, Aris, we haven't heard from you. What's your
+
+[33:32] SPEAKER_02
+biggest thing about Vibe? Basically,
+
+[33:37] SPEAKER_02
+your most likable point.
+
+[33:40] SPEAKER_01
+Yeah, I've just been listening to the masterclass going on between you two. Um, yeah, you know,
+
+[33:50] SPEAKER_01
+there's so many, there's so many things. Uh,
+
+[33:54] SPEAKER_01
+you know, it's when your woman asks you what you like about her, and you're like, Well, you know, it's a trick question. I don't like it exactly, yeah. But really, like, the you know, it's uh, just looking at it from a, I guess, a business perspective and the size of the market that's available for it with the amount of competition or, you know, people to try trying to get at it. Um,
+
+[34:24] SPEAKER_01
+I love seeing a really good opportunity and a huge gap that's waiting to be filled. And I think, like, you know, the millions of tokens that are on chain with none of them that have a perp market and being able to fill that is. that is
+
+[34:44] SPEAKER_01
+a very exciting
+
+[34:48] SPEAKER_01
+thing, I think. And
+
+[34:50] SPEAKER_01
+yeah, that's a big one for me. It's just the market that's available for us to do. Yeah, the addressable market. Yeah, yeah. yeah.
+
+[34:58] SPEAKER_02
+Yeah. And that's cool. Like, we always ask these people, ask some people in calls where it's like, hey, just take a guess how many tokens were launched last year. on the year before right and then they say like oh well maybe like we had answers from 15 000 to 80 000 and then you ask them how many perps markets came out of it and they mostly say like oh thousands right and well most of the time people are super off with their numbers because like it in in total it was 60 million tokens launched
+
+[35:28] SPEAKER_02
+and there was like maybe 500 perps markets on them so um the gap in existence here is probably the biggest gap to fill um and vibe is basically the only product out there that is actively able to do that um without having weird proposals you know um having to have millions of dollars in liquidity ready or you know in usdc to pay for certain
+
+[35:58] SPEAKER_02
+listings vibe is completely free you don't pay anything to list you don't need any liquidity pairing just supply and that's what i think makes the biggest difference here is now it's accessible to everyone it's fully permissionless perpetual market creation everybody can create or add to an existing market so that's the big point with vibe and you know we always have to say it i know many of you out there know that um but repeating it for the new
+
+[36:28] SPEAKER_02
+viewers is always also important right so with that being said um we don't have a lot more time today um we wanted to go and showcase of course what vibe can do and the best showcase is that we go to deck screener and we quickly pick a nice token that we can grab um lava would you do the honors for us today um and throw up your deck screener page and help us pick out a solana token that
+
+[36:58] SPEAKER_02
+we're buying um that we're listing
+
+[37:01] SPEAKER_00
+do we have pippin listed already wait what about these bounty works i think it's interesting i think it's funny
+
+[37:10] SPEAKER_02
+we don't have pippin listed no
+
+[37:16] SPEAKER_02
+bounty work we don't have listed either um it's funny
+
+[37:23] SPEAKER_02
+is that is that the guy that jumped out of the plane
+
+[37:27] SPEAKER_00
+no man it's it's that guy who tattooed his
+
+[37:30] SPEAKER_02
+uh tattooed his head right yeah yeah oh yeah
+
+[37:33] SPEAKER_00
+i think
+
+[37:35] SPEAKER_02
+kins
+
+[37:36] SPEAKER_00
+could be interesting
+
+[37:39] SPEAKER_02
+how do you spell that kintara oh kins kintara yeah
+
+[37:47] SPEAKER_00
+it's nice
+
+[37:48] SPEAKER_00
+where you play to earn buy and sell kint
+
+[37:55] SPEAKER_00
+5 000 players i guess these guys could be interesting to list and contact them
+
+[38:00] SPEAKER_02
+yeah yeah yeah 100
+
+[38:04] SPEAKER_02
+cool i like that it's like old school graphics nice
+
+[38:12] SPEAKER_02
+yeah they they look good well buy some of them
+
+[38:25] SPEAKER_00
+magpie permissionless lending borrow soul
+
+[38:35] SPEAKER_02
+hello ah now it works okay
+
+[38:39] SPEAKER_02
+good let's buy one soul of kintara and listed
+
+[38:46] SPEAKER_02
+god damn it sol is only worth 66 bucks now jesus christ
+
+[38:52] SPEAKER_02
+how did this like god
+
+[38:58] SPEAKER_02
+this is really like
+
+[39:01] SPEAKER_02
+so lana is always taking the biggest hits right into the face oh by the way lafa while we're listing um we were building portfolios the last stream um if you would have to pick five tokens to put into your treasury and just hold for the next years what would you buy
+
+[39:25] SPEAKER_00
+pretty tough right now
+
+[39:27] SPEAKER_02
+yeah yeah i mean in these markets it's always tough but you know
+
+[39:32] SPEAKER_00
+i would be exposed to sim and wipe bitcoin
+
+[39:39] SPEAKER_00
+Probably still Ccash.
+
+[39:45] SPEAKER_00
+One more.
+
+[39:48] SPEAKER_00
+Yeah, and I guess since we're building on hype, for sure also. Hyperliquid. These five, yeah.
+
+[39:57] SPEAKER_02
+Yeah. See that the same. That's a good portfolio to have.
+
+[40:03] SPEAKER_00
+Yeah.
+
+[40:05] SPEAKER_00
+I mean, I've had this conversation a few days ago with someone. I was like, yes, you look, right now, if you talk to a normal person, they actually believe Bitcoin is like private. Okay. They think. So if you talk to, you go out of the streets, you talk about Bitcoin. It's like, oh, yeah, that's these
+
+[40:24] SPEAKER_00
+private coins. You send someone money and then you tell him, oh, you have to declare that. He was like, why? Isn't it all hidden?
+
+[40:35] SPEAKER_00
+Imagine what happens once the general public understands that they could just one day one government comes out and they're like, oh yeah, by the way, we tracked all Bitcoin transactions and all your Ethereum transactions and everything.
+
+[40:55] SPEAKER_00
+At that moment, everyone will be like, oh, fuck. I need Ccash.
+
+[41:06] SPEAKER_02
+Yeah, I can see that. I can see that. There's a lot of issues that we haven't faced yet in this space that are just coming slowly, you know, talking about unrealized gains, taxation in the Netherlands, right?
+
+[41:24] SPEAKER_02
+Where they are now actively basically looking for people that make a lot of profit and are hiding it. I mean, they've done that before, but you know, with crypto becoming more and more popular, of course, an eye always wanders over to our space. So, you know, like our space has to mature a lot. And as you said earlier, I think Vibe is a big, part of that. If you were to see the space as a whole, Lafa, just, you know, a couple of words here
+
+[41:54] SPEAKER_02
+to
+
+[41:56] SPEAKER_02
+finish the stream. What would you say in general is just missing? You know, like, what do we need to get back to have, you know, a DeFi summer or,
+
+[42:09] SPEAKER_02
+you know, something where we can get the people back that we have maybe lost in this space because of too many rugby or other issues we had.
+
+[42:21] SPEAKER_00
+As I said before, I think
+
+[42:24] SPEAKER_00
+there is no DeFi at the moment. All we can do is list some tokens. That's it.
+
+[42:31] SPEAKER_00
+Vibe is here to change that. So I think, yeah, currently what you need is something like Wipe.
+
+[42:37] SPEAKER_00
+Afterwards, I don't know. I haven't thought about it.
+
+[42:41] SPEAKER_00
+I was busy helping you guys build Vipe.
+
+[42:46] SPEAKER_00
+Yeah, you
+
+[42:46] SPEAKER_02
+know, sometimes maybe.
+
+[42:48] SPEAKER_00
+I can tell you
+
+[42:49] SPEAKER_02
+afterwards. Yeah, let's finish Vibe.
+
+[42:53] SPEAKER_00
+One problem after the other.
+
+[42:56] SPEAKER_00
+Obviously, people never do that. Once Uniswap came out, actually, it should have been clear to everyone else that logical next step that we have to take is how do we get derivatives for all of these Uniswap assets? That is the only next thing. Everything else is like kind of distraction. Doing something like a filler episode. If you're watching something like One Piece, then there's like one episode with story and then 10 filler episodes that again some story.
+
+[43:26] SPEAKER_00
+I would say Uniswap was the main story and now Wipe is the next one and everything in between was kind of a filler story. Also all of these on-chain order books, they're just again, they're not really different to what Binance offers. Binance offers exactly the same.
+
+[43:45] SPEAKER_00
+Yeah.
+
+[43:46] SPEAKER_02
+Yeah, I get, I mean, it's, you know, like it's, all, uh, I always compare the perps markets to like the car market. If the car market would be only one car, hyperliquid built it and now everybody is just slapping different colors on and different rims and by selling it as a new car, it's still the same car. So, you know, we got to build on top of the car
+
+[44:10] SPEAKER_02
+and basically, you know, like bring the space a little further. I guess that's what builders always have to do. That's why we always also have a big mass.
+
+[44:20] SPEAKER_00
+I think what Hyperliquid is doing is awesome. And institutional liquidity and having these perps for a handful of markets is great. But it doesn't really solve that problem that we created when we launched Uniswap, you know?
+
+[44:36] SPEAKER_00
+So
+
+[44:38] SPEAKER_00
+I didn't mean buying
+
+[44:41] SPEAKER_00
+it solves like this specific niche problem, which is that you want to have like a deep liquidity market for 50 assets where every market maker is part of it. It doesn't solve that other issue, which is what about these 10 million tokens that are getting launched. And look, it's like there were 50 million tokens launched that were useless. Imagine how many tokens are going to be launched once they aren't useless anymore.
+
+[45:11] SPEAKER_00
+Yeah.
+
+[45:14] SPEAKER_00
+Okay, guys. I guess you want to.
+
+[45:17] SPEAKER_02
+Yes, yes. We are ending the stream as always, very, on point.
+
+[45:23] SPEAKER_02
+There will be times where we do much longer streams. But you know, like for people stopping by for a whole hour during their very, busy day, we want to keep it to a minimum.
+
+[45:35] SPEAKER_02
+So, first of all, guys, thank you very much for stopping in. As always, appreciate it. We listed Kins, by the way, and the other tokens are already coming live one by one, such as Dead, for example. Feel free to check us out on Twitter, give us a follow, feel free to check out Sim as well. And there's also some other cool front ends that you can always check out. If you want to list a token or if you want access to the closed speeder on
+
+[46:05] SPEAKER_02
+Vibe, if you want to trade, try out, give us some nice feedback, please let us know, hit us up, send us a message, and we'll give you access and you can try it out. So, with that being said, thank you very much, Lafa, today for coming in, for you know, giving us a little bit of wisdom to what the market really needs and why VIPE fills basically that void. It's always good to hear it from, you know, people that are a little bit
+
+[46:35] SPEAKER_02
+more on the outside, having a wider view, you know, not like us being in the trenches building Vibe. We always need a little bit of a, you know, outside voice of reason. So, you taught us very, well today. Thank you very much for that. I hope you come and stop by again in the next coming weeks.
+
+[46:56] SPEAKER_02
+I leave the last words of the stream to you, Lafer, to our honored guest, and you're closing it up basically.
+
+[47:04] SPEAKER_00
+Okay, yeah. I think I've said enough. It really, I can just repeat it again. And I've been talking about this to a lot of smart friends: is that
+
+[47:18] SPEAKER_00
+it really all comes down to connecting those
+
+[47:24] SPEAKER_00
+that have assets to those that want exposure. And that's the most basic financial need. No financial market can exist without a platform that connects these two. Vibe is now building it and it will usher the industry into a new era. And I guess everyone who was listening today on this call can be part of that. You can be part of that new
+
+[47:53] SPEAKER_00
+era of DeFi by just onboarding some people, listing tokens yourself, and telling others that have assets that they can now earn yield on them. And the coolest thing is that Vibe will actually reward you
+
+[48:12] SPEAKER_00
+a lot. The referral program that will be coming up, everyone who helped grow the platform will be on the side that has a lot of assets in the end.
+
+[48:23] SPEAKER_02
+Good. Yeah. Thank you very much, Lafa. Thank you very much, guys, for stopping by. You have a wonderful rest of your day. Big love. And we'll see you again on Friday this week. Take care, everyone. Bye-bye. And thank you, Thiago, for always producing a wonderful show here. Thank
+
+[48:37] SPEAKER_01
+you.
+
+[48:37] SPEAKER_02
+Cheers, guys. Bye-bye.
+
+[48:39] SPEAKER_01
+Bye-bye.
