@@ -1,7 +1,10 @@
 # Vibe Stream Knowledge Base
 
-Curated transcripts and chapters from approved Vibe streams.
+Public archive of selected Vibe streams, with transcripts and chapters for each published stream.
 
-This repository contains public-safe copies of selected files from the private company Drive archive. It does not contain audio, video, raw model outputs, Drive links, Drive IDs, or internal paths.
+Official links:
+
+- Website: [vibe.trading](https://vibe.trading)
+- X: [@vibe_trading](https://x.com/vibe_trading)
 
 Start with [index.md](index.md).
