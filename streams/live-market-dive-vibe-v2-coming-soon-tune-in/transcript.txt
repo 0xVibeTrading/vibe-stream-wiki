@@ -1,0 +1,584 @@
+[03:07] SPEAKER_00
+All right, all right, all right, we are live. Can you hear me?
+
+[03:11] SPEAKER_01
+I can
+
+[03:11] SPEAKER_00
+hear you. How's it going? Doing pretty good. How are you?
+
+[03:17] SPEAKER_01
+Good, good. It's uh good Friday
+
+[03:21] SPEAKER_01
+and uh yeah, I'm excited for this one.
+
+[03:23] SPEAKER_00
+Yes, sir, yes, sir. So, welcome everyone that has tuned in already and to the early ones. Yeah, like I mean, it's a nice day, sunny, sunny weather, and uh, yeah, BTC looks awful. Um, so I guess when we had, you know, like that the weather was a little worse, BTC had you know, was looking a little better. But, anyways, um, today, guys, we are going to do a couple of different things. I have, I
+
+[03:53] SPEAKER_00
+think, one or two more tokens that just for test listings, um, we want to quickly push through Solana. We are going to buy a token on DexScreener for like two or three for Sol and gonna list it right away. Um, we're gonna place a couple of trades today, and um, then also by the end, we're gonna run you guys through our onboarding quiz basically, where you
+
+[04:23] SPEAKER_00
+guys can get a free airdrop if you just quickly push through it in two minutes. Um, and we will also drop an announcement today that you know is about the onboarding stuff. So, um, as always, if you guys want us to check out a token, um, list a token, talk about a token, whatever that may be, or if you have questions about Vibe, the crypto market in general, and all these kinds of things,
+
+[04:53] SPEAKER_00
+please let us know and post it in the comments, and we will get right to it and, of course, answer it then, in you know. the best way we can. So, let's start right away, I guess. As you guys see, right in front of me here is V2. V2 is still in production. So, there are a couple of things that might not be fully ready to show to the public.
+
+[05:23] SPEAKER_00
+And we're basically here to show you guys the progress to build in the open, to hunt some bugs and then give them to the devs, and then show you guys that next stream or the stream afterwards, those bugs are fixed, right? It's more of a display of the progress that we're doing, and it also shines a light on the people that work very, hard in the back end of Vibe and SYMM to
+
+[05:54] SPEAKER_00
+support us. And also,
+
+[05:59] SPEAKER_00
+like normally, you don't see them. You always see Aris and me, and you maybe see some other people, but you never see the devs. So, big shout out to them, as always. And also, big shout out to Leon, who's continuously building every day. So, you'll hopefully see a little bit more of him fairly soon. But at this stage, he's just whipping the devs around, I would say. No, all jokes aside, we're full hands building currently, so it
+
+[06:29] SPEAKER_00
+efforts Leon to have a daily view on things, hence why he's not coming to the streams here, right?
+
+[06:37] SPEAKER_00
+But with that being said, I guess what we want to do here is we want to go to the pools page and we want to just check out what has happened. We see we're nearly at 300k TVL from the Vibecaps. We saw a good listing from Riverboat from our French friend Dynamox. Shout out to him.
+
+[07:05] SPEAKER_00
+And yeah, like there's some good tokens coming in. The good thing is, right now, and I feel like Aris, you will confirm that if I say that, the market is that slow that people can actively do some due diligence now on good projects and they don't just have to jump the bandwagon, right? So, what do you think about that?
+
+[07:29] SPEAKER_01
+Yeah, yeah, I'm pretty aligned with that. I'd say, like, you know, we're pretty much near the bottom of the bear market. Um, I mean, you know, you can always go lower, but there's only so much downside kind of left here. And I'd say the risk to return to at least dollar cost average in the like majors is finally flipping very good. Uh, it also means like we've seen some pretty wild action from altcoins recently, and
+
+[07:58] SPEAKER_01
+I'd say like majors they still look really bad. And even last when we were on the stream last time, and you know, we had a couple really good days, and you asked me, like, oh, are we coming back? And I was like, you know, for us to really rebound, we need to do some chop
+
+[08:16] SPEAKER_01
+kind of near the bottom and just kind of, you know, it needs to needs to consolidate. And I think we're still in that. Maybe we go lower, but we at least kind of bounce around here for a bit. But during that time, there's some alts that really pump. Obviously, there's like, you know, there's whatever's happening in the trenches. There's hype, for example, which is hitting all-time highs in like the bottom of the bear market, which is pretty insane. And so I forget his name. I think it's like CBB or someone, but he said, you know, there's
+
+[08:46] SPEAKER_01
+always a bear, there's always a bull market somewhere. And I think that's very true. And when, you know, majors aren't pumping and it's very like euphoric, because it's not euphoric at all right now. You do get a lot more time to look into these smaller projects where there might still be a lot of momentum and there might still be a bull market, you could say,
+
+[09:07] SPEAKER_00
+for certain coins which have a really unique offering. So
+
+[09:11] SPEAKER_01
+yeah, no, I think it is pretty hot in the altcoins right now and in the trenches sometimes. And yeah, still definitely lots of opportunities out there if you know to look.
+
+[09:24] SPEAKER_00
+Yes, 100%.
+
+[09:26] SPEAKER_00
+And to know where to look and what to look for, we will like check out a couple of tokens in a second here. What we will do now is we will list just the two tokens that I have in my wallet to test something out real quick. Just to see the process.
+
+[09:47] SPEAKER_00
+So imagine, guys, you just bought a token from, you know,
+
+[09:53] SPEAKER_00
+any exchange you can find out there that. is let's say for this instance here, in you know, example Solana. So, let's say you just bought a sol token, you want to list that right away on Vibe. You will do the following: you will copy the address, you will pick Solana as a chain. You will see normally, well, you know, it pulls the liquidity, etc. It might be the case that this token is not traded very heavily
+
+[10:23] SPEAKER_00
+or not at all. Um, so I will continue this here. Um, I will put in my buyback percentage and I will click on create pool. You can, of course, pick how much leverage you want to offer, and then it sets up the pool. You can copy the address here,
+
+[10:45] SPEAKER_00
+and you just send the token to basically. It's pretty, pretty simple.
+
+[10:53] SPEAKER_00
+It takes a minute and then probably another minute until the token is live.
+
+[11:01] SPEAKER_00
+But as we said, this is something to test here with a token that has not a lot of stuff going on. So,
+
+[11:11] SPEAKER_00
+we'll check on that in a second here.
+
+[11:16] SPEAKER_00
+And what we do then is basically
+
+[11:20] SPEAKER_00
+show you guys a little bit more about v2. So, as you guys saw, and if you guys are in beta, it's a lot more comprehensive here. Like, we got all the little icons for the tokens, the PFPs. You can have a claim all buttons, so you don't have to go through the different tokens that you listed. You have the different filters, the rejected ones that you can then retry.
+
+[11:47] SPEAKER_00
+Which I will, you know, show you guys if we have a token to retry. I wanna have to refund that, unfortunately. We got the different filters here that you can pick. Let's say we go to our main page of our pools, my pools here. We'll filter that for volume, OI,
+
+[12:09] SPEAKER_00
+and APR. Okay, now it works. Perfect. So, you see everything working. You, of course, have your little bit more detailed filters here.
+
+[12:21] SPEAKER_00
+And you can filter for chains. So, a lot of things that are moving, you, of course, can search for the contract address, you know, or for the name here. And you see your history when it comes to the tokens you deposited, the withdrawals, the refunds, etc. So, a much, much,
+
+[12:40] SPEAKER_00
+you know, from like a viewpoint-wise, everything's super easy to understand and everything very, very straightforward. Good. That being said, you see the whole discover page here, and you see, you know, the chain dominance, you see the revenue, you see the TVL.
+
+[13:01] SPEAKER_00
+And you, of course, have, you know, a chance to filter for new pools.
+
+[13:09] SPEAKER_00
+You have a chance to filter for different.
+
+[13:13] SPEAKER_00
+So, this is the question now. I think this could be a little bit of a bug. How do I get back to all the pools from here?
+
+[13:25] SPEAKER_01
+Could discover, see
+
+[13:28] SPEAKER_01
+up top, if you could discover.
+
+[13:30] SPEAKER_00
+Yeah, but like, then, no, no, nothing goes. Like, I have to no, and then it goes back to the
+
+[13:39] SPEAKER_00
+so wait,
+
+[13:42] SPEAKER_01
+wait, wait, wait, wait,
+
+[13:44] SPEAKER_00
+Okay, so let's say, just to lock this,
+
+[13:49] SPEAKER_00
+we want to filter for
+
+[13:55] SPEAKER_00
+volume. Okay, this works. If we go to new pools,
+
+[14:01] SPEAKER_00
+okay, now we get out of it. Okay, okay, okay. No, we're not getting out of it.
+
+[14:10] SPEAKER_00
+So, okay, do you see this? So, basically, when we click on new pools, it's basically it logs in the new pools page, and we can't like
+
+[14:25] SPEAKER_00
+return.
+
+[14:29] SPEAKER_00
+Okay, that is a good bug to log here. Um,
+
+[14:37] SPEAKER_00
+we should maybe, we can clip this
+
+[14:41] SPEAKER_00
+or I'll record a loom afterwards because this is super hard to explain with words, I guess. Um, but yeah, like it actually, yeah, it doesn't.
+
+[14:57] SPEAKER_00
+right? I'm not stupid, right? Oh, no. Oh.
+
+[15:03] SPEAKER_00
+Oh, okay. This is, okay, now we got it. Look, you gotta like press the 24 again and then you get out.
+
+[15:13] SPEAKER_01
+Yeah, okay.
+
+[15:18] SPEAKER_01
+I mean, it's a bit.
+
+[15:21] SPEAKER_00
+Yeah, okay, good. What was thought was about to be a bug was just me being stupid. Yeah, I knew I should just click around a little bit more and then, you know. But with that being said, we guys want to show you a little bit more about the cool work that the guys did on the V2 version here.
+
+[15:45] SPEAKER_00
+So as you can see, we have our chart back with our nice little vibe colors.
+
+[15:53] SPEAKER_00
+We got our breaking news section here in the bottom. We will also have an advertisement section. Of course, you have your open order history, etc. Everything you need. I showed that the last time. Important cross and ISO, the different order types, right, that you can go through. And of course, the limits as well. Then when we just look at the whole, it just looks super, smooth, right? If we go
+
+[16:23] SPEAKER_00
+to the Vibecap section here, we have our little bit of a speedy wheel up top there, you know, where the top gainers are. And there's also some effects that are happening. So that will all come in then when you guys are trading yourself and you can experience it and just check out the page in full. You can, of course, filter here for everything, right? You just see my history here.
+
+[16:55] SPEAKER_00
+And you can just check out the different DEXs, the different chains, the history you have. You can, of course, filter everything here again.
+
+[17:04] SPEAKER_00
+And so with that being said, let's go to something that is really, cool for people to see. So we have the point section back then on page with the leaderboard, the trades happening, the different challenges that are happening and that you can take part in, right? And the cool part is,
+
+[17:25] SPEAKER_00
+why does it always do that? That there will be some surprises coming with this page. So make sure that you guys stay in touch with everything and check out the updates because we'll soon release some cool stuff on this. So overall, you guys saw the updates here in a pretty, pretty quick run through. I feel like there's a lot of things that changed. So it is always good
+
+[17:55] SPEAKER_00
+if you guys tune into the streams and you can see the details that change from stream to stream. Otherwise, it probably looks like a completely new version of Vibe to you, which is
+
+[18:10] SPEAKER_00
+the part or the point of V2, basically. So with that being said, I think we should, before we list a token, place a couple of trades. Others, I know that you are always in the trenches and you know what to trade and what not to trade. But I want to make one trade and then you can tell me what you want to trade, okay? Because we're going to long river boat
+
+[18:40] SPEAKER_00
+here.
+
+[18:41] SPEAKER_01
+Nice.
+
+[18:42] SPEAKER_00
+Right. So
+
+[18:47] SPEAKER_00
+let's do.
+
+[18:54] SPEAKER_00
+Jesus, Dina, you put some look. Then I put like 10K into it. Damn, that's crazy. Okay, let's long that with like $10. We need some
+
+[19:07] SPEAKER_00
+higher price impact.
+
+[19:12] SPEAKER_00
+Perfect. Let's do that. Oh, reduce size or add margin.
+
+[19:20] SPEAKER_00
+We'll just do that different. We'll do an initial. Let's try
+
+[19:26] SPEAKER_00
+put this a little bit higher.
+
+[19:30] SPEAKER_00
+Let's try.
+
+[19:35] SPEAKER_00
+No size or reduced leverage. Ooh. Okay. See, we always want to watch here.
+
+[19:42] SPEAKER_01
+Why would that fail though?
+
+[19:45] SPEAKER_00
+Let's see what happens if we open.
+
+[19:50] SPEAKER_00
+Size or add margin. Huh.
+
+[19:58] SPEAKER_00
+Okay, that will work.
+
+[20:01] SPEAKER_00
+But why? Like it opens, it's good on the open. Like it wouldn't have liquidated me even with 5% slippage.
+
+[20:12] SPEAKER_00
+I don't get it. I have enough margin. Huh.
+
+[20:24] SPEAKER_00
+Okay, well, have to check that again. Let's, let's lock that and then we'll check it afterwards. But that might be something here. Okay, and then this is very slow here. Okay, it worked perfect.
+
+[20:43] SPEAKER_00
+Okay, good. So we're looking good here. So, Aris, I made my trade. Now you can decide what we should trade.
+
+[20:54] SPEAKER_01
+Let me take a look.
+
+[21:04] SPEAKER_01
+This black bowl is pretty funny, but there's no.
+
+[21:07] SPEAKER_00
+Yeah, somebody just wanted to do a joke, I guess.
+
+[21:11] SPEAKER_01
+Yeah,
+
+[21:20] SPEAKER_00
+What could we trade?
+
+[21:27] SPEAKER_01
+Oh, we
+
+[21:28] SPEAKER_00
+also need
+
+[21:28] SPEAKER_01
+like there's the filters by number, but there should also be
+
+[21:33] SPEAKER_01
+the same way we have on the pools, clicking by volume or available open interest would be another good one.
+
+[21:41] SPEAKER_00
+Anyways,
+
+[21:44] SPEAKER_00
+oh god, that looks horrible. What the fuck?
+
+[21:53] SPEAKER_00
+Hmm, what could we trade?
+
+[21:58] SPEAKER_01
+I think
+
+[21:58] SPEAKER_00
+like
+
+[22:00] SPEAKER_01
+Kintara
+
+[22:01] SPEAKER_00
+is actually
+
+[22:01] SPEAKER_01
+really,
+
+[22:02] SPEAKER_00
+really working well.
+
+[22:05] SPEAKER_00
+It had a had a nice little dip here.
+
+[22:11] SPEAKER_01
+Yeah. You know what?
+
+[22:16] SPEAKER_00
+We'll launch Intara. What do you think?
+
+[22:20] SPEAKER_01
+It's a pretty good. It looks pretty good. Yeah,
+
+[22:24] SPEAKER_01
+I'm just trying to look. I'm having some issues with the chart loading speed here.
+
+[22:31] SPEAKER_01
+But I was looking at the collector crypt. I was trying to zoom out on that one.
+
+[22:37] SPEAKER_01
+Collector.
+
+[22:39] SPEAKER_00
+Yeah, yeah, Cards. Yeah. the chart looks weird.
+
+[22:46] SPEAKER_00
+Okay.
+
+[22:52] SPEAKER_00
+Opening a Kintara long.
+
+[22:57] SPEAKER_00
+Hmm.
+
+[22:59] SPEAKER_00
+Okay, worked perfect.
+
+[23:05] SPEAKER_00
+I'm going to add some margin. Always important, guys, that you add some margin. Very, very important.
+
+[23:23] SPEAKER_01
+It'll be interesting when people are on, like a you know, when there's tokens coming on Divide right as they launch and they're trying to add liquidity on like a 1030k market cap token and it drops 1%
+
+[23:39] SPEAKER_00
+before they can even add it. Oh look, like some something's pumping. Like I nailed that entry.
+
+[23:47] SPEAKER_01
+Oh, amazing.
+
+[23:49] SPEAKER_00
+Amazing.
+
+[23:51] SPEAKER_01
+Yeah, it's right.
+
+[23:51] SPEAKER_00
+One in a row.
+
+[23:53] SPEAKER_01
+That's the streak. That's it.
+
+[23:56] SPEAKER_00
+Yeah, you know, you're going to get your like successes from like little things, right? Us men are very, humble beings. So
+
+[24:06] SPEAKER_00
+yeah, but good. So I feel like this is
+
+[24:10] SPEAKER_00
+this is very, smooth, man. Like I would like to trade a little bit more. However, we don't have that much time because we also have to run through some things. So let's buy a token.
+
+[24:29] SPEAKER_01
+Yes. So I've been looking through the
+
+[24:36] SPEAKER_01
+yeah, there's nothing that's super that really really stands out. The
+
+[24:41] SPEAKER_01
+looks like the GTA there one, I guess because GTA is just doing so well. because it came out and everyone's talking about it. That one's pumping a lot. And it could actually be a decent.
+
+[24:57] SPEAKER_01
+I don't know.
+
+[24:58] SPEAKER_00
+I mean, it pumped because Rockstar dropped a freaking video about it, right? Like, we actually don't know if they keep up their schedule. Like, GTA 6, for all we know, it could come out 2030.
+
+[25:11] SPEAKER_01
+Yeah. This
+
+[25:15] SPEAKER_01
+are you winning sounds very suspicious.
+
+[25:19] SPEAKER_01
+I mean, it's a nice.
+
+[25:19] SPEAKER_00
+Because I remember a token from 2025, from 25. The same one.
+
+[25:28] SPEAKER_00
+Yeah, I don't know. There's not a lot of like
+
+[25:32] SPEAKER_00
+super good ones.
+
+[25:40] SPEAKER_00
+I found one earlier.
+
+[25:46] SPEAKER_00
+And
+
+[25:48] SPEAKER_01
+I will
+
+[25:49] SPEAKER_00
+tell you in a second
+
+[25:50] SPEAKER_01
+what this was.
+
+[25:52] SPEAKER_00
+It is named Inferral. Inferral is the name. So we're gonna
+
+[26:29] SPEAKER_00
+buy this. We'll buy it.
+
+[26:34] SPEAKER_00
+We will buy that.
+
+[26:44] SPEAKER_00
+Yes, very good. We will buy that.
+
+[26:48] SPEAKER_01
+Let's
+
+[26:49] SPEAKER_00
+do
+
+[26:51] SPEAKER_00
+three.
+
+[26:57] SPEAKER_00
+Oh, come on. What the fuck are you talking about here?
+
+[27:05] SPEAKER_00
+Is that so volatile? Like, it's like, I mean, Phantom just should just do something on their swaps, man.
+
+[27:14] SPEAKER_00
+Fuck it.
+
+[27:18] SPEAKER_00
+All right. Let's list that token right away.
+
+[27:30] SPEAKER_01
+Interesting. How, like, the
+
+[27:35] SPEAKER_01
+how do you trade trade AI compute? So
+
+[27:41] SPEAKER_01
+interesting idea.
+
+[27:44] SPEAKER_01
+Okay.
+
+[27:49] SPEAKER_00
+Well, just shoot him a message. Tell them we listed them.
+
+[27:57] SPEAKER_00
+It's interesting, yes.
+
+[28:02] SPEAKER_00
+BTDE, perfect. And all the, yes.
+
+[28:07] SPEAKER_00
+Yes.
+
+[28:10] SPEAKER_00
+I have a good feeling on this one. I don't know why. Not financial advice, guys. Like, really.
+
+[28:17] SPEAKER_00
+Perfect. So, with that being said, we exactly have as planned 15 minutes left for Tiago to now switch over to Aris' screen. And Aris giving you guys a quick demonstration of the new onboarding quiz that you can all now go through, set up your own dashboard, create an account on Vibe, get your own
+
+[28:46] SPEAKER_00
+referral code live, and start inviting people. You get free airdrop points for just filling it out. There's also a video for you guys to watch and a tweet to make. So a lot of really, really interactive things and a lot of really entertaining things, right? So yeah, Tiago, if you wouldn't mind, please switch over to Aris and we'll show everything. Cool, Aris.
+
+[29:16] SPEAKER_00
+You are
+
+[29:18] SPEAKER_00
+the stage is yours.
+
+[29:21] SPEAKER_01
+Amazing. Yeah, guys. So referral codes are finally going live. Obviously, you guys have seen the V2 that's coming out very, soon. And so with that, points are going to be out. And kind of the first way that you can start accumulating points and really positioning yourself well, because I believe everyone's going to be using this in some way, shape, or form in the future. It's going to be the same how we all interact with like a DEX to swap, or you know, we all
+
+[29:50] SPEAKER_01
+occasionally use some sort of perpetual platform for our majors. We're eventually going to be using Vibe to provide liquidity to trade on it. Um, and being early and being able to invite all your friends is you know, super important, and there's going to be a ton of upside there as well. So, with that being said, there's an onboarding which is now available in order for you to get your referral code and then for you to also bring your friends through it. And so, we'll just kind of go through. So, if we unlock it, we'll
+
+[30:20] SPEAKER_01
+just go through what it looks like, right? And it just kind of quickly explains what vibe is and you know, why it's so important, what we're actually doing.
+
+[30:30] SPEAKER_01
+So, as we go through, there's a couple questions, all right? So, if you're a trader, for example,
+
+[30:36] SPEAKER_01
+let's say we're a trader, you can add your socials if you want so that we can contact you, or you can skip it. It just asks you where you trade, so you can just say if you're on perp dexes or whatever, how many tokens you think launched in the last 12 months. And so, you can put any amount, maybe let's just throw down some numbers, it's 3 million. The actual number of tokens that got launched in the last 12 months is closer to 40 million, which is absolutely
+
+[31:06] SPEAKER_01
+insane compared to the last couple years before. Like, it was never this bad, but with Pump.fun, with all the these other launch pads going live, there's a huge abundance of tokens. But if we kind of skip through here,
+
+[31:22] SPEAKER_01
+out of these tokens, so they like there's 40 million tokens, and they do over 20 billion dollars of volume on chain.
+
+[31:31] SPEAKER_01
+But of these amounts, only a thousand of them have a perp market, and so you can see there's this huge gap of all these tokens that are launching, the amount of them that actually get a perpetual market so you can go up or down so you can you know sustain them. So, it's not just like up only or else the token is dead. There's directional flow in either way, and that's obviously what Vibe's solving, right? You guys have been watching the streams, you already know what it does and how it works. But we pretty much unlock the perpetual markets for the other 40
+
+[32:01] SPEAKER_01
+million of these tokens that don't have them.
+
+[32:06] SPEAKER_01
+So, if we like the amount of volume, right, if there was a perp involved, we'd be about five to 10x higher, and so there's this huge gap of volume, which we're planning to unlock. And that's kind of the goal here is bringing these perpetual volume onto all these low caps so people have more future trading them. But also, the really big kind of narrative that we're now pushing with Vibe is the permissionless credit side of things. And so, where there's trading, people want directional
+
+[32:36] SPEAKER_01
+risk on an asset, and then there's people that hold those assets which want to earn yield on it. And you want to know where your yield is coming from. And in this case, it's coming from traders that are using your token pretty much as a supply to trade as a perp.
+
+[32:52] SPEAKER_01
+So, anyways, you know, you can go through the white paper if you want. There's like 400 pages of it. You probably don't want to do that. It's a very quick, it'll show you as you go through this onboarding yourself. It'll show you just like a little bit of how it works on the back end, how it actually provides perps for these low caps. A little more on what it's ran on, which is SYMMIO, which has already processed a huge amount across multiple different front ends. So, Vibe's one of the front ends that are built on top of this.
+
+[33:25] SPEAKER_01
+And then this quick product demo video. I believe this is actually, do we have this pinned? We don't. If we don't, it's in the highlights. You can also see it there, but you'll you know, you'll see it as you come through here as well.
+
+[33:38] SPEAKER_01
+Quickly goes through the referral program. And so, when you're bringing your friends, you're going to earn up to 50% of the protocol revenue.
+
+[33:48] SPEAKER_01
+And then this just kind of goes through like, so how much volume do you bring yourself? Um, so let's say we do like one to 10 million. How much liquidity are you going to provide as an LP? Maybe you'll bring like, I don't know, 5K.
+
+[34:03] SPEAKER_01
+And then, this goes through how many people you can also bring as well, right? So, if you're going to refer your friends, if they're also going to provide liquidity, how much are each of them going to deposit? Let's say it's like 10K, keep it, keep it on the lower conservative end.
+
+[34:20] SPEAKER_01
+And so, you can see for this one, right? Even just preferring, I don't know how many people I put, like five to ten. Um, and it would bring this. Obviously, you can adjust the numbers and go through. That was a really conservative guess there, but this is running you through like what you can get as a refer for LPs, um, not talking about traders or anything as well.
+
+[34:42] SPEAKER_01
+Anyways, so yeah, and this is just a, it's a quick, I mean, you guys will go through this yourself. It goes through someone that's already running at LP here, their ex post on what they're actually doing and the deposit that they're getting.
+
+[34:57] SPEAKER_01
+Some more testimonials here as well. And then pretty much once you complete it, it's a bit slower because I wanted to kind of talk through as we went, but yeah, you get an access code at the end. And so you get an access code. So you can go ahead and create your account on Vibe with this. And you'll just need like a little couple cents of hype in your wallet to pay the gas fee to create an account.
+
+[35:20] SPEAKER_01
+There's going to be about 10,000, but for the first 333, and there's going to be an announcement going out today, first 333 people to go ahead and make an account are going to be getting double points. So I believe it gives you 500 points. It gives you 1,000. So it gives you 1,000 points. But if you're one of the first 333, you're going to be getting double that as well. So that announcement's going out. You guys can kind of front run that by going up and signing up today.
+
+[35:50] SPEAKER_01
+You can see, you can just go straight to this link and you'll see it get posted today on our X. But it's, yeah, it's vibe.permissionless.credit. And then you can put in the referral referral tag just vibe trading.
+
+[36:05] SPEAKER_01
+And then, yeah, you guys can go ahead, you can go through the onboarding, you can get your own code. So after you create an account, you put in your account name and then you can go to your dashboard and you'll have your link. Every referral code, it comes with like five access codes and you can request more anytime. So once you start bringing in people, you can request more codes and then you can just get unlimited, right? If you're actually bringing in real people. And yeah, that's pretty much how it goes. I don't want to go through and show like a
+
+[36:34] SPEAKER_01
+dashboard key or anything that I shouldn't, but because yeah, you get you get like a key to log into your dashboard, but that's pretty much how it works. Yeah. Any questions?
+
+[36:48] SPEAKER_00
+Awesome. Cool, cool, So
+
+[36:51] SPEAKER_00
+you guys seen what
+
+[36:54] SPEAKER_00
+we've cooked up there and very, very happy about it, of course. So we hope that you all take part in it after our announcement today and that you are one of the first 333. Don't forget to share it with your friends. And yeah, don't forget to tune in next time. Follow Vibe on Twitter, on YouTube and anywhere else you can find us. Join our Telegram, join the Discord.
+
+[37:24] SPEAKER_00
+Become a beta tester and soon gamma tester. You are very, very much so invited. And yeah, thank you very much, everyone, for tuning in today. Thank you, Aris, for co-hosting with me as always. Thank you, Tiago, for producing. And a big shout out to everyone else working on us, working on Vibe with us day to day. Thank you all for tuning in. You all have a wonderful rest of your day and you have a wonderful, wonderful weekend with the best
+
+[37:54] SPEAKER_00
+weather. And we'll see you all on Monday. Cheers, everyone. Take care. Bye-bye.
+
+[38:00] SPEAKER_01
+Thanks, guys. Bye-bye.
