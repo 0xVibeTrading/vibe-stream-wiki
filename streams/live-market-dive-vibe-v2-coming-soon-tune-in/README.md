@@ -1,5 +1,9 @@
 # Live Market Dive! Vibe V2 coming soon Tune in
 
+## Where To Watch
+
+- [X](https://x.com/i/broadcasts/1qKDzzRjBBDJV) / [YouTube](https://www.youtube.com/watch?v=-S_CvQ5u-7U)
+
 ## What's Discussed In This Stream
 
 - 00:00 - Introduction & Market Outlook
