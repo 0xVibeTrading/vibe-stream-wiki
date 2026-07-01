@@ -1,0 +1,614 @@
+[03:07] SPEAKER_00
+All right, all right, all right. Hello, hello, everyone. Can you hear me?
+
+[03:13] SPEAKER_02
+Hello, yes, I can. Hello,
+
+[03:15] SPEAKER_00
+guys. Hello. We have some wonderful guests today. But first of all, welcome to all the people that tuned in so super early. And, you know, like I saw already, like 20 people were here when the countdown started. So, appreciate you all. Thanks for always stopping by when we go live. Thanks for all the feedback you provide. And yeah, thanks for just being part of our journey. With me, as always, we got others today.
+
+[03:46] SPEAKER_00
+And before we dive into, you know, market talks and all these kinds of things that we normally do, today we have something special. We got two people here that are not only good friends of ours, but also are building two super, super cool things, you know, alongside others, of course. And I just want to get you guys, you know, a little bit of alpha basically today with these two guys that are going to explain what
+
+[04:16] SPEAKER_00
+they're building here. So, without further ado, because you've all heard about Michael from Shift already, today I have, or we have with us also Filippo from Ivy, and he's taking care of all the growth when it comes to what Ivy is and what Ivy is. He will tell us here exactly right now. So, Filippo, would you mind just giving us a quick intro of yourself
+
+[04:46] SPEAKER_00
+and then we'll dive into a little bit more detail when it comes to Ivy?
+
+[04:52] SPEAKER_01
+Hi, guys. Thank you very much, Kima, for the intro. Good to see you, Aris and Michael. Quick introduction to myself, really, so you can you all. can all sort of get acquainted and we can become really fast-paced friends.
+
+[05:05] SPEAKER_01
+Filippo, I came out of the University of Cambridge back in 2020. I joined a large media entity and went pretty much straight into crypto. In 2023, I co-founded a market maker, ran that for two years. And then, obviously, in around mid-2025, decided to go all in on options for obvious reasons. We will be discussing that on this call today. So, we essentially created Ivy overall, which
+
+[05:35] SPEAKER_01
+is our own curated option vault market maker in essence, which I'm very excited to be here and tell you more about.
+
+[05:43] SPEAKER_00
+Yes, and we're going to dive into that very, shortly. But first, Michael, do you also want to give a quick intro about you and just, you know, one or two taglines about what is shift?
+
+[05:59] SPEAKER_02
+Absolutely. First of all, thank you so much for bringing me over and having me with me today. Can you hear me well? Am I audible? Yes, we can hear you.
+
+[06:09] SPEAKER_02
+Oh, fantastic. Great. So I'm Michael, one of the co-founders of Shift. Shift is an RWA issuer bringing fully backed stocks, ETFs, bonds, and now we have a batch that we just released of leverage ETFs. So really interesting to look. It's a new kind of product because it has zero liquidation. So it does have a multiplier. It does have kind of a perpetual angle to it, but it does not have any liquidation risk whatsoever. So because it's
+
+[06:38] SPEAKER_02
+leveraged on TradFi, the options are off-chain. And your principal, even if pushed down to 0.01, can bounce back very quickly. And you're never pushed out of position because of an oracle issue or a price feed issue or any issue. So there's just no pushing out of position. So it's very Nobel and interesting.
+
+[07:04] SPEAKER_02
+That's our latest batch. Maybe to explain a bit about how it works. Once a customer comes in, we either have inventory or mint inventory back to back, meaning we go to our broker, to our bank, buy the actual leverage ETF, the stock, whatever the customer asked for, and then mint the token on the spot and send it over. So kind of adjust-in-time system, allowing offering just huge wide
+
+[07:34] SPEAKER_02
+varieties of stocks, ETFs, indexes, bonds, not only from the US, but from around the world. So
+
+[07:44] SPEAKER_02
+that's basically how Shift works. And on top of these SPL tokens, which we create, there are any layers of composability for token 2022 SPL tokens. It's a lot of tokens, basically. So if it's VIBE, creating per market, or if it's Ivy, creating an options market, or other partners that we have creating tranched customer, tranche
+
+[08:14] SPEAKER_02
+products, sorry, tranche ETFs.
+
+[08:18] SPEAKER_02
+So sort of baskets of different types of products within one token. All of these different composability options exist on Shift and we're pushing and working with partners together to give the customer a vast amount of options between lending and borrowing markets and everything that I just mentioned right now to basically be able to utilize their camera.
+
+[08:45] SPEAKER_00
+Oh,
+
+[08:46] SPEAKER_00
+I think now we lost Michael.
+
+[08:51] SPEAKER_02
+DNLP on a purple deck or backbye.
+
+[08:59] SPEAKER_00
+Michael, I think your connection is a little bit bad. So maybe you can get to a better place. But you already
+
+[09:08] SPEAKER_00
+gave the perfect
+
+[09:11] SPEAKER_00
+explanation into what we are like, a little bit of a hint into what we're diving into here now. So Filippo, we already heard there's a certain word floating around options. Not a lot of people have heard it, or maybe they have heard it, but they never really understood what options really are. And when we say options, we don't mean options when it comes to wearing your shoes in different colors, but you know, different options. So Filippo, if you would be so
+
+[09:41] SPEAKER_00
+kind, just give us a quick explanation of how a normal retail person would understand options very easily.
+
+[09:49] SPEAKER_01
+Yeah, absolutely. It's one of the most powerful questions, I guess, really, especially at this point in time.
+
+[09:58] SPEAKER_01
+So, in order to understand options, I could actually take you down memory lane or down history, really. So,
+
+[10:06] SPEAKER_01
+at the crux of it all, what an option really is, just in really simplistic terms, it's a contract for you to buy a specific stock, asset, or whatever you want at a specific price, typically above the spot market. But it's also a contract that enables you to sell a particular asset at a specific price within a specific timeframe. So, for instance, I over the next using something really simple,
+
+[10:37] SPEAKER_01
+I think, let's say ETH is going to be trading 20% higher than it currently is over the next three months. I would obviously want to lock in a call option. A call option is just an ability for you to buy above market at a specific price within a specific timeframe. If I think ETH is going to be dipping, say 20% or more within the next three months, I could then buy a put option, which essentially reserves the right for me to
+
+[11:06] SPEAKER_01
+sell ETH at a specific price. Now, what's interesting about options is options at the base of it all, they're actually really simple contracts, it's deliberately kept complex for obvious reasons. So, the bit of history of humanity: so, the first option ever recorded actually dates back to the year 600 BC. So, this is ancient Greece, where there was a lot of wine harvesting or olive harvesting. So, there was a philosopher called
+
+[11:36] SPEAKER_01
+Talus of Miletus, a pre-Socratic philosopher. In the year 600, he was a massive oil harvester, right? So, as in olive oil harvester, he was expecting that year a large oil harvest. So, what he actually did, he went to all the olive press
+
+[11:56] SPEAKER_01
+owners and he paid them a premium. So, he essentially locked in an ability for himself to rent the olive presses before the actual olive harvest actually happened. So, when this large olive harvest actually happened and there was a surplus of olives, he was essentially the only one creating all the oil because he was the one with the infrastructure. Another really interesting case, also historically, is in Europe in the 17th century.
+
+[12:26] SPEAKER_01
+I'm not sure if many of you are familiar with this, but there was a large frenzy around tulips, flowers. So, these tulips would, as soon as they came out of the ground, for whatever reason, these tulips were used across courts, they were used by aristocrats, and everyone sort of wanted to get their hands on this, right? But the supply was limited. So, what these buyers, these venture capitalists, would essentially do is they identified the growers, they would essentially buy the tulip when it was
+
+[12:56] SPEAKER_01
+still underground. So, they would effectively prepay or get secured themselves a contract to buy a tulip at a specific price before the tulip was even ever out. So, that is essentially a brief history around options. Options exist across crypto, but they're still in the very early stages of development. Obviously, in traditional finance, options have defined investing for centuries, as you can imagine. But the purpose of Ivy is to really bring these options on chain and make them
+
+[13:26] SPEAKER_01
+tradable and accessible to everyone.
+
+[13:29] SPEAKER_00
+Awesome. Well, thank you very much for the quick explanation. So, now that our listeners and viewers have hopefully understood a little bit more about options, maybe you can tell us how we now use them in this space. And, you know, if there's something basically that lets options capture yield that otherwise, you know, wouldn't be able to be captured. So, maybe Tiago, if you want
+
+[13:59] SPEAKER_00
+to, Filippo, of course, please share your screen. And maybe you want to run us through the Ivy Market website and a little bit of a pitch there.
+
+[14:08] SPEAKER_01
+Absolutely. Let me try and share my screen really quickly so we all
+
+[14:12] SPEAKER_00
+can sort
+
+[14:12] SPEAKER_01
+of see.
+
+[14:14] SPEAKER_00
+And once it's up, Tiago will just switch over to you and we'll then basically dive into it a little bit more. And Michael, I hope you have a better connection now.
+
+[14:27] SPEAKER_00
+I think I do. Can you hear me better? Awesome. Yes, we can hear you much better. Great. Fantastic.
+
+[14:33] SPEAKER_01
+Great.
+
+[14:34] SPEAKER_00
+But you gave us the perfect intro to everything that we're now discussing. So
+
+[14:43] SPEAKER_00
+I love this,
+
+[14:44] SPEAKER_02
+Filippo.
+
+[14:45] SPEAKER_01
+It's very nice, isn't it? You can sort of see why, you know, we all have sort of an obsession with neoclassical history architecture. and so on. But it's really important to understand that part of history to understand options, really. But I appreciate that, Michael.
+
+[15:03] SPEAKER_00
+Cool. Awesome. So, with everyone seeing this awesome little page, as Michael has already wonderfully said, Felippo, give us a quick rundown. Now that everybody knows what options are and what they're good for, other than buying tulips or olive oil, what do we do in crypto with them?
+
+[15:26] SPEAKER_01
+Absolutely. So just to give you some context, the reason why, before I run you down, I'll run you through the entire website. The reason we decided to build Ivy is because of how closed the option market has always been in the crypto sphere specifically. Options are usually utilized purely by market makers for their own liquidity provisioning, but also for their own trading purposes. The
+
+[15:56] SPEAKER_01
+reality is that any single asset that exists, any crypto asset from BTC all the way down to your 2 mil FDV token, they all have one thing in common, which is volatility. Options essentially, because it gives you the right, if you want to buy at a specific price within a specific timeframe or sell at a specific price within a specific timeframe, it enables you to sort of capture the volatility. So if you, as I mentioned, if
+
+[16:26] SPEAKER_01
+you have a token, say Solana, and you have a positive view that token will be performing well over the next month, or even over the next week or over the next day, you really want to make sure that you can capture that. So you can either go long spot or you can trade leverage. Both have their own sort of pros and cons. Or you could essentially lock in a contract via an option, which would essentially mean you would pay a small fee up front. It locks you in on a specific contract. You
+
+[16:56] SPEAKER_01
+have the right to buy that token at a specific price if it's above the level that you set. Now, when it comes, this is there's no platform that enables you at the moment to trade options in the way that a spot market exists or a perpetual market exists. And this is the big problem that we're looking to solve. Without, this might be a bit technical, but options don't necessarily need to live on order books. So the same way that a Binance contract or a
+
+[17:25] SPEAKER_01
+Binance environment exists or a Bybit or an OKX, where velocity is and speed is very important, options are not speed-based contracts. Unfortunately, large entities and firms have made it a speed war, but Ivy is sort of automatically killing this entire framework. So let's assume you are, you're sat on Timo, you're sat on Solana. Let's say you're sat on $100 worth of Solana.
+
+[17:55] SPEAKER_01
+You want to sell a call option. So you're reserving the right for someone else to buy your $100 of Solana at a specific higher price that you or the buyer sets. You can now, effectively, with Ivy, you can essentially look to capture a premium yield. So if I'm the buyer and I want your soul, right, I would come to you and say, Tima, okay, I'm prepared to buy your entirety or your entire bag at, say,
+
+[18:25] SPEAKER_01
+10% above the current spot price. If you agree, then obviously we're both happy. I pay you a small fee to gain access to that contract. That fee equates to your yield. That is a USDT fee. If, let's say, the contract is for 30 days. So let's say within 30 days, I want your soul to be performing above 10%. If Sol just trades 5%, for instance, from the current spot price within 30 days, then you still retain your
+
+[18:55] SPEAKER_01
+entire soul and you retain the premium that I paid you. That is effectively your yield. I, on the other hand, I have sort of reduced my risk because I'm not necessarily buying $100 worth of Sol. I'm not taking trading it on leverage. I've just paid a small premium. So that sort of protects my downside as a buyer. You obviously as a seller, you're obviously extremely happy because you retain your entire soul plus you capture a small premium overall.
+
+[19:25] SPEAKER_01
+So this is what Ivy is sort of designed to do. It's designed to allow individuals who are sat or large firms or foundations who are sat on a lot of token deposits or a lot of token treasury to mobilize that treasury, allow individuals, external traders, market makers, prop firms, whoever it is, any willing buyers who are essentially
+
+[19:50] SPEAKER_01
+who aren't criminals. obviously, who are KYC and KYB to be able to access those tokens that are slightly higher priced. It's a phenomenal yet deeply unexplored way to capture yield in these markets. And this is sort of why Ivy's come to market at the moment.
+
+[20:07] SPEAKER_00
+Okay, so let's get into a little bit of a more detailed example. So there is something that happened yesterday that we want to, you know, maybe share with the audience. And we want to also later on drop a statement piece about it, or you know, Ivy wants to. And also, Michael did a little happy dance about it yesterday. So I leave it to you or Michael to share here what happened
+
+[20:37] SPEAKER_00
+and basically what went on. And so you guys can, you know, share that nice little moment here.
+
+[20:44] SPEAKER_02
+Yeah, the showcase is for Lippus. The fact that we've partnered in and very proud to be partners in this, but it's for Lipper's day. Let's go.
+
+[20:55] SPEAKER_01
+Of course, I appreciate that. So, naturally, what we've done for the first vault, for the first active kind of representation of what Ivy can do,
+
+[21:07] SPEAKER_01
+there was a depositor who had purchased SPCX through Shift.
+
+[21:15] SPEAKER_01
+They wanted, we wanted to showcase to this depositor that they could actually capture yield on their holdings. So, the way that we did that, we had X amount, so around 100 and between 100 and 150 shares, so kind of a small amount, so between 15 and 20k USD notional worth of SPCX, tokenized SPCX, tokenized via Shift. We essentially sold a call option to an additional buyer. So, the buyer wanted to
+
+[21:44] SPEAKER_01
+purchase that SPCX at a higher price. So, what the technical definition is 20% out of the money. It's a 20% out of the money call, meaning that they reserve the right over 30 days if SPCX moves over 20%. After 30 days, it's trading above that level, they reserve the right to buy the entire amount. So, naturally, this was effectively priced to the point where the depositor of SPCX could capture an
+
+[22:14] SPEAKER_01
+upfront USDT premium simply by allowing someone else to buy that asset at a specific level if it does hit that mark. But this is a really good way again to add utility to your holding. Naturally, there's always a balance here, and this is why Ivy's pricing mechanic is so important. Ivy is designed and was always designed as a yield protocol, leveraging options to do that. Obviously, Michael is extremely happy, and Ideal is happy to
+
+[22:44] SPEAKER_01
+answer around that. There will be multiple more markets that we are going to be opening. But the crux of the matter here is any large stock that can be tokenized can have an options market. There is a myriad, there's hundreds, if not thousands, of willing buyers who want to take those options and who want to reserve the right to buy the asset at a higher level. One, to hedge themselves, secondly, because they're long the token and they want to get exposure.
+
+[23:14] SPEAKER_01
+But the way that they can do that is in a true two-sided market where it benefits the depositor, it benefits the seller because they capture premium upfront by allowing someone else to purchase that asset at a specific level within a specific timeframe. And then it obviously results in yield capture. And it obviously benefits the buyer because they can effectively look to skew if they have, say, a long bias on a particular asset. So, this is really the first implementation. Let's not forget
+
+[23:44] SPEAKER_01
+SPCX was the highest, most eye-balled IPO in history. Ivy has effectively, together with Shift, created the very first covered call vault on SPCX in the world, which is extremely exciting. We're very proud.
+
+[24:03] SPEAKER_00
+Awesome. So, congrats on that from the Vibe side, of course. And so, guys, like, tell me, like, what's on the radar here, really? Are we looking into tokenizing stocks? Are we looking? You know, when we're talking about general, we're always talking about RWAs, but I guess that's a very, very like wide word, right? When it comes to definition. So, what's on your guys' mind when we go away from like actual stocks
+
+[24:33] SPEAKER_00
+now? What's next in line when it comes to tokenization? Is it like real estate portfolio yield? Is it maybe you know something like we've seen with Pokemon cards or something like that? What's on your guys' mind there? Maybe a Maybe little bit. a little bit more of a general question, but I guess it's important for the audience to know what you guys are thinking about this whole RWA mania.
+
+[25:00] SPEAKER_02
+May I jump in?
+
+[25:01] SPEAKER_00
+Of course, Michael.
+
+[25:04] SPEAKER_02
+I mean, RWA is a battered word, right? It has like it's from like USDT is RWA, right? It's a backed asset. It's a real world asset. It has T-bills behind. So, you
+
+[25:18] SPEAKER_01
+know,
+
+[25:19] SPEAKER_02
+anything from that and up to IP of like a song or something, and the car, and the Pokemon card, and the real estate. So we are fixated on financial tools. We're fixated on bonds, stocks, ETFs, and tools that actually don't exist in the supermarket we call DeFi, just like Vibes created, just like Ivy created. These are the things that we're trying to find. So if we're looking at structured products
+
+[25:49] SPEAKER_02
+right now, which are very interesting and are completely missing, a lot of yield-based products are missing. And also the pre-IPO game is way from being like way from being over. Like it's just begun. I see a lot of traction there. I see a lot of action. I see a lot of issues. And we're sought to solve them because the gap between the Trad5 version and DeFi
+
+[26:18] SPEAKER_02
+version has to be mitigated. I don't know if anybody saw what happened to some of these pre-IPO tokenization companies when SpaceX launched. They took a dive because
+
+[26:33] SPEAKER_02
+somehow
+
+[26:34] SPEAKER_00
+black hole of liquidity here.
+
+[26:40] SPEAKER_02
+I don't know exactly. You think it was just people running away from that asset and going to the space? Oh, yeah.
+
+[26:47] SPEAKER_00
+What I heard is that the price crash.
+
+[26:49] SPEAKER_02
+And then that's a result of the price crash. The beginning of people running away. Yeah.
+
+[26:56] SPEAKER_02
+I'm pretty
+
+[26:57] SPEAKER_01
+sure
+
+[26:57] SPEAKER_02
+that's a good question. I think
+
+[26:58] SPEAKER_01
+that's a technical. But I think that's
+
+[27:01] SPEAKER_02
+from a technical point of view, a failure, not a
+
+[27:06] SPEAKER_02
+demand, a lack of demand, right?
+
+[27:10] SPEAKER_02
+I
+
+[27:10] SPEAKER_00
+mean, technically, it's just emotions if we just take a plane and similarly.
+
+[27:15] SPEAKER_02
+I'm seeing, I'm saying, these like few pre-IPOs, forget SpaceX. SpaceX had a lot of demand pre-IPO,
+
+[27:23] SPEAKER_00
+but
+
+[27:24] SPEAKER_02
+OpenAI, Anthropic, they're still pre-IPO'd. There's still a lot of demand for them. There's still a lot of demand for other, let's say, picks and shovels in the AI industry companies that I'm seeing a lot. Commodities, a lot of things that aren't on the shelf that could be on the shelf.
+
+[27:42] SPEAKER_00
+But there's also a lot of interest on the other side, right? Of people to get rid of those pre-IPO shares at a like 20-30% discount, even.
+
+[27:51] SPEAKER_02
+I mean, hopefully, because this is what creates the match between buyer and seller, right? We have to find these allocations in the private market. It's way harder because there's no secondary market to get them. I have to find these allocations manually, right? Because there's no entropic market to buy. No, Think about what I'm saying. Yeah, I have to actually find an owner and close a deal with them. It's more difficult and complicated than just buying on a bank and broker what we do today, which is why we
+
+[28:21] SPEAKER_02
+chose to do post-IPOs and tradable and publicly tradable instruments, which are just highly anticipated. Let's say they're volumetric. I know that I can sell them. I won't get my customers stuck with an asset you can't sell, like maybe an apartment in a specific area in a specific city, which I don't know if it's good or not. So we stayed clear of real estate and things that are less fungible and stayed on the fungible side of things. I'd call it. That's like from our point of view, why we
+
+[28:51] SPEAKER_02
+act as we act. You know, there's so much in so many different RWA companies. Just today I talked with a guy doing silver, which actually has balloons of silver, which is really cool. I respect a lot of people in the industry right now working, as well as the guys from Vibe and Ivy. Very, cool stuff, I think, that are bringing to the market super, super innovation and actually, you know, A, bringing what's
+
+[29:20] SPEAKER_02
+missing in DeFi and filling those gaps. And B, actually,
+
+[29:26] SPEAKER_02
+I think innovating upon those Trade of 5 versions of the product and making them better, more efficient, and I'd say less costly and faster. That's, I think, why I'm here. I think why Filippo is building also taking something which is a model correctly, corrective, Filippo. taking a very old model, but creating a very novel new version of it, which is way more efficient and just digitized in the best way. That's
+
+[29:55] SPEAKER_02
+correct.
+
+[29:56] SPEAKER_01
+Absolutely.
+
+[29:58] SPEAKER_00
+All right.
+
+[29:58] SPEAKER_02
+That's
+
+[29:59] SPEAKER_00
+my piece, guys. No, thank you very much. Very informative. So, Filippo, do you want to add to that?
+
+[30:06] SPEAKER_01
+Yeah, absolutely. I mean,
+
+[30:08] SPEAKER_01
+in this world of more and more large markets, large companies going public,
+
+[30:19] SPEAKER_01
+the beauty of tokenized, well, so for years, tokenization has had quite a bit of a stigma around it to some degree. And it was because of the expectation that as soon as you tokenize something, buyers would show up. The reality is that, you know, as we saw with the NFT frenzy, as we saw all sorts of stuff, that just as one example, that is obviously proven not to be the case. However, what tokenization does allow you to do, and this is why Shift is Shift,
+
+[30:49] SPEAKER_01
+that's why we're partners with Shift and with Vibe, of course, is because we can now, via, say, tokenizing SPCX or tokenizing robot strategy or tokenizing any asset in existence, we can now attach utility to that asset that previously was just non-existent. Options are a really good way to add utility. So, you know, as opposed to just holding a stock, now you can actually capture or look to capture some non-diluted yield on that stock. If you potentially would like to head
+
+[31:19] SPEAKER_01
+your position, now you can do that both with perps and with options. And obviously, the place to do that in order to get that tokenization, the sort of the picks and shovels of it all is obviously shift. And that's why it's sort of a match made in heaven. So we're really at an inflection point at the moment, from what I see, and I'm sure a lot of you on this call agree, is that the RWA sort of spectrum is only just kicking off. It's only just developing. I'm very excited to see where the space will
+
+[31:49] SPEAKER_01
+take us. Frankly, I see all Vibe Shift and IV has been very early to the sort of movement. And the most important thing is just ensuring that tokenization can deliver value to the actual user. So that's essentially the crux of it all.
+
+[32:10] SPEAKER_00
+Very interesting that you said that. So who are those users? Like, let's talk about it, right?
+
+[32:18] SPEAKER_00
+Is it the bigger whale that maybe holds, you know, like a million dollars of a certain tokenized stock or maybe of a bigger asset? Or is it also like the foundations and the hedge funds, the VCs that want to just, you know, bring in their retail customers, but they don't have any vehicles to yield off, right? They have a lot of assets on the management, but like there's nothing to put them in. So where's this big hook in with the real world,
+
+[32:48] SPEAKER_00
+right? A lot of people were always talking about it. And options are something super normal in the real world, right? Derivatives are something that we talk about on a daily basis, especially when we talk about oil, etc. Right.
+
+[33:06] SPEAKER_00
+Why are we not so used to it in crypto? Maybe we'll answer that question first and then we'll dive into the other things. So what's the gatekeeper here, Filippo, for options to be more prominent and more on the forefront?
+
+[33:23] SPEAKER_01
+Well, I mean, there's a lot to unpack in that question.
+
+[33:29] SPEAKER_01
+A bit of an echo, but I think
+
+[33:33] SPEAKER_01
+okay, perfect. I think
+
+[33:36] SPEAKER_01
+the, as I going back to my initial topic, is that options have been sort of a closed garden or closed, sort of a walled garden for pretty much centuries.
+
+[33:48] SPEAKER_01
+The purpose with Ivy is to really democratize access to options to anyone who essentially has, wants to be a seller or a buyer across the board. Who can it be used by? It's pretty much anyone. Of course, the target, the obvious client is large token holders. This could be family officers. It could be OPEs. It could be large investors, GCs, foundations. Obviously, from a foundation standpoint in crypto, let's say you're a top 200
+
+[34:17] SPEAKER_01
+foundation on CoinMarketCap just by valuation, writing options on your inventory is the most obvious way to capture USDT yield upfront. And the reason for that, there's actually a nuance here. Typically, a market maker who specializes in buying and selling options, they're not necessarily, they're not, this is this is where it sort of gets a bit complicated because they're not necessarily looking to buy an
+
+[34:47] SPEAKER_01
+option at a higher, so they're not looking to buy a call. So they have a specific strike at a higher, at a higher percentage or higher price compared to the spot price, necessarily because they're looking for that option or hoping for that option to actually get into the money. And by in the money, meaning the option, also the underlying asset is going to be trading higher with that initial strike price. The alpha in a lot of the option buying and selling lies
+
+[35:17] SPEAKER_01
+in the hedging. So if you it's just nature, if you know that you have the ability within a specific time frame, say 30 days, to buy an asset at a specific price higher, you are just going to be trying to break even, or you can actually look to profit here by using perpetual markets. So if it's a I'm buying SPCX at say 20%, 15%, 10% higher than the current spot price, I'm like, okay, great. If it ends up there, then I'm
+
+[35:47] SPEAKER_01
+sure I can purchase it at that particular level. However, if it doesn't, I need to sort of protect myself. So from a market making standpoint, I can sort of hedge myself. This is potentially more sophisticated compared to, or a sophisticated strategy compared to your average Joe, your other kind of first user
+
+[36:08] SPEAKER_01
+option trader. The easiest way to capture yield is by being a depositor. So actually being a seller. So that means Ivy would effectively price the market. They would find buyers for you. And then they would also look to capture yields for you on your underlying. So who is the end client? It's really for anyone who is a willing buyer or a willing seller. But it's sort of the sort of the dream setup. The beauty of Ivy is also that going back, sorry, I don't want to confuse you all, but
+
+[36:38] SPEAKER_01
+remember how I mentioned options don't necessarily need to trade on an order book. It's absolutely true.
+
+[36:44] SPEAKER_01
+Currently, options do trade on order books because that allows the sellers and the buyers to have quite a lot more control, at least in traditional finance. In Ivy, the only thing we need is an option buyer and an option seller. They both submit their own conditions. So for instance, the buyer says, okay, I'm willing to buy it at a specific price. The seller would say, okay, I'm willing to sell it at a specific price. If the percentages match and if the conditions, the criteria, the rules
+
+[37:14] SPEAKER_01
+set on both sides match, then Ivy will automatically match that trade, which is sort of getting into intent-based territory, but that's a conversation for another day potentially. But just to answer your question, Timo, after we've run through exactly kind of how this works mechanically,
+
+[37:32] SPEAKER_01
+the target market is pretty much anyone at this point in time. And that's really only possible via tokenization to wrap us up.
+
+[37:41] SPEAKER_00
+Perfect. Thank you very much for the answer there. Michael, do you want to add something
+
+[37:45] SPEAKER_02
+to
+
+[37:45] SPEAKER_00
+it?
+
+[37:46] SPEAKER_02
+I do, I do, I do. I mean, my customers in the end should turn into Ivy customers and VAT customers. This is in my head. Now, let's take the Ivy case specifically, which is very easy in my head to explain. Once you have our tokens
+
+[38:03] SPEAKER_01
+and
+
+[38:03] SPEAKER_02
+you've chose long, short version, or whatever version you want, you can now make more money out of this composable layer, I'll call it, or maximum utilization of this token. So from our point of view, we're first of all super happy and proud, but it's for us exactly what we want it to happen because when you're asked why you're actually having a token as stocks rather than just a paper version of the stock,
+
+[38:33] SPEAKER_02
+here is your perfect example of why and what you cannot do on TradFi and what you can do now on default. So for us, it's great. Now, regarding the customer type, we ourselves are seeing very different customer types between Web 2 whales, Web 3 whales, and let's say retail, which is scattered around the globe from Indonesia, Maldivia, Vietnam, Philippines, to
+
+[39:03] SPEAKER_02
+Nigeria, to South America, and to anywhere around the globe actually.
+
+[39:10] SPEAKER_02
+Disclaimer on countries that we cannot serve on the bottom of the website, but apart from them, everybody's coming in and even them are trying. That's all it gets.
+
+[39:22] SPEAKER_02
+So it's really not some specific, I cannot say because we have so many different types of customers, a lot of people from Apex and a lot of people from Africa. And then you have Wales, which a lot a lot of them. of them are European, a lot of them are Farm Apex, and they're a different customer profile type, but both of them exist in the ecosystem. Both of them are vital to the ecosystem. One brings maybe more AUM
+
+[39:52] SPEAKER_02
+and it's more slow. One is more fast, creates a lot of volume. So we understand both sides of it, and I think they live and coexist. And I think that they can both be customers of the composable layers. So for Ivy and VIBE as well. That's what I'm trying to say.
+
+[40:11] SPEAKER_02
+It's a game that is viable for more than one customer type. And we're asked multiple times: who is your ideal customer profile? And we have so many answers to that. Sometimes it's confusing even to us. But it really gives, as Filipo says, accessibility around the globe to products that were blocked off. So, A, we expect to see a lot of people that don't have access to it in their countries and that actual access has now been given. And
+
+[40:40] SPEAKER_02
+once again, people with on-chain money, and maybe that on-chain money doesn't want to go off-chain, but needs diversification and needs a place that it's safe to make money in. So we see both use cases active.
+
+[40:56] SPEAKER_00
+Interesting, interesting. I mean, it's like your guys' opinions are fairly similar, I would say. And they both give a very, good outlook. So we always talk about, you know, like the real world people are knocking on the door of crypto. And like, for some reason, we're always seeing issues with converting them. This actually brings, you know, like the crypto people and the real
+
+[41:26] SPEAKER_00
+world finance people together, which I think is very, cool. So from a perspective of, you know, like just overall market outlook, how do we all think here? And this is a general question again.
+
+[41:45] SPEAKER_00
+We will look in the next two, three, four months when it comes to the market. And how do you guys see your product basically scaling with the market either going up or down? So that is very interesting, I guess, for the people to hear because, you know, there's different strategies for all the different companies that are out there. And most important is that I guess we are all very adaptable in
+
+[42:15] SPEAKER_00
+this space, right? So especially for Ivy, I think this is very, cool because Ivy can adapt very, quickly. Shift can adapt very, quickly, right? When it comes to new narratives and trends. But I'm curious to hear from you guys. Like, what are you looking forward to basically in this market?
+
+[42:37] SPEAKER_01
+There really is quite a bit. I'm not necessarily going to, I'm not so much a price prediction sort of guy. What I will say, though, is I think what is clear is that there is a growing demand for derivatives. You see that with spot volumes hitting pretty much not all-time lows, but as close to it as possible. But perp volume really skyrocketing. For options, it's a really interesting case because we haven't actually
+
+[43:07] SPEAKER_01
+seen the true impact of what an option volume market can actually do in crypto at scale, which is also going to be quite interesting. This also sort of proves
+
+[43:17] SPEAKER_00
+my
+
+[43:18] SPEAKER_01
+rationale, my logic, that over time, the spot price of an asset will sort of just converge to be in the truth, right? So when we would typically bid or we would trade, we would buy and sell something spot.
+
+[43:35] SPEAKER_01
+That was pretty much the only way to enter a market. But given how kind of sort of institutional we're getting at the moment, with perps and soon-to-be options through Ivy, obviously, starting to pick off or like starting to take over, the spot price also just becomes the reference point for these derivatives to live off of. And that's, you know, it's due to the psychology of a trader. It's due to how people are interacting at the moment. People are starting to
+
+[44:05] SPEAKER_01
+get a lot more sophisticated with their trading. And with sophistication comes further tooling, comes demand for further instruments, comes the demand or the appetite for
+
+[44:19] SPEAKER_01
+further vehicles. And that's sort of where we're at the moment. So where I believe the interesting case for Ivy will be is when options do sort of come alive, when more importantly, foundations and even individual traders or whales start to understand. to understand that they can no longer just buy a bag and just sit on it and just hope for the best. They can sort of buy a bag, or let's say, if you're a foundation, you have a token treasury. You're now sort of
+
+[44:49] SPEAKER_01
+able to capture more yield from that treasury just by writing options on it. That yield can be utilized for internal runway. It can be utilized for the scalability. It can be used for marketing. More importantly, it can also be utilized to buy back more of your own token, which is a really interesting kind of sort of treasury management vehicle that is sort of left unexplored. These, I'd be lying to say that these
+
+[45:15] SPEAKER_01
+kind of option strategies haven't been utilized in the past. They just haven't been that visible to people. This is sort of Ivy's mission, which is to allow what institutional players have been essentially dabbling with for centuries and educating the space a bit more about the value of options and how pretty much anyone can get involved.
+
+[45:38] SPEAKER_00
+Interesting, interesting. So, like, basically, overall, we see options as like basically in its infant shoes. And the more mature the market grows, the more options will see adoption.
+
+[45:57] SPEAKER_00
+Is that a good statement to make?
+
+[45:59] SPEAKER_01
+That's exactly right. I'm obviously betting big on the scalability of options. I think it makes complete sense. Options, just this is an interesting metric. Options and perpetual markets trade at parity, volume-wise, or close to parity in traditional finance or in the TradFi world. There is a 98% gap. Options are only 2% of the total derivatives volume in crypto, which is a staggering metric. It's a staggering metric. Yeah. Which is
+
+[46:29] SPEAKER_01
+sort of.
+
+[46:30] SPEAKER_00
+And then those 2% are
+
+[46:33] SPEAKER_00
+held behind closed doors, right? Or happening behind closed doors. Correct. So a lot
+
+[46:39] SPEAKER_01
+of
+
+[46:42] SPEAKER_00
+that's very interesting. And now that we're talking about it, so like, you know, like what happened yesterday, and you know, we talked about it already. But what I think we haven't really quickly talked about, and what's, I think, very interesting for everyone is how does an actual, you know, like option, like auction work there? Like, you know, what happened yesterday, like when a bidder comes in and what are they competing on,
+
+[47:11] SPEAKER_00
+you know, who is the winner in the end? How is that being decided? Basically, can you like quickly run over that?
+
+[47:18] SPEAKER_01
+Absolutely, absolutely. So we're just for context, we'll purely just be sticking to call options on in this case because it's the easiest example to give you. So as we've established, a call option is just a contract allowing someone to buy an asset at a specific point above, typically above the spot price. So let's say on SPCX, it's 20% out of the money. So 20% above the current spot price. So let's assume a token's at $100. The buyer would be
+
+[47:48] SPEAKER_01
+able to lock in a specific amount at $1.20, just for, or $120. I remember whatever I said. Anyway, it doesn't matter. The way that it currently works is you would need an underlying. So let's assume it's
+
+[48:04] SPEAKER_01
+a SpaceX, a tokenized SpaceX. So to do that, you would obviously have to pass via shift. That is obviously one of the core USPs. What Ivy would then do, once you have secured that, what Ivy would do, you would come to Ivy, you can reach out to us. What Ivy would effectively do there is three core things. One is pricing. So we will effectively look to price the most effective option market on that underlying, so on that underlying SpaceX, tokenized SpaceX.
+
+[48:34] SPEAKER_01
+The second component is liquidity. So we are essentially responsible for finding the buyers, the people who are going to be paying you the premium, the people who will be giving you the yield, essentially. So those are essentially the buyers that reserve the right to buy your underlying, let's say, SpaceX or RoboStrategy or Tesla, whatever it is, at a specific price. And the third component, and this is Ivy's true specialty, is the yield capture. So with pricing, with accurate liquidity attraction, so
+
+[49:04] SPEAKER_01
+we've price the assets, we find the buyers, and then we also get you the yield in that sense. So the typical auction is once we price the asset. So let's assume we have SpaceX. We are pricing the call option. So we're selling a call option at 20% above the current spot price. Once we have that, we run an auction system with a suite of buyers. These are all kind of friends and family. These are large MMs. These are small smaller MMs. mems. It doesn't really. doesn't really matter. These are all kind
+
+[49:34] SPEAKER_01
+of willing participants. They submit their bid. So they submit a value that they're willing to pay in order to gain access to that underlying at a specific at a specific strike price. So at a specific spot level, right, above the market. Let's assume we have 15 bidders, so 15 auction participants. Ivy will automatically select the bidders that are offering us the most effective yields, but are essentially
+
+[50:04] SPEAKER_01
+paying us the most, right, to get access to that.
+
+[50:07] SPEAKER_01
+That USDT paid by, say, the 15 auctioners or the 15 participants, that is effectively the yield that you, as a depositor, are able to capture. So from a depositor standpoint, it's very passive. It's very straightforward. If you're very bullish on SpaceX or if you're very bullish on any stock, I would strongly recommend to reach out to Michael to ensure that can be effectively tokenized. But if you're really bullish on it, why not also
+
+[50:37] SPEAKER_01
+capture yields? So it's a sort of get paid to hold type of system that we're bringing to market, which is very exciting. So that's essentially it. So we price the option. You have the underlying. We price the option. We find the buyers and we give you yield. That is essentially the entire mechanic.
+
+[50:55] SPEAKER_00
+It's pretty simple, to be honest. So why was this kept exclusive and behind doors? And why did nobody hear about options so far? Or maybe not many heard about it.
+
+[51:10] SPEAKER_01
+Maybe not. Well, on this first vault, but we're doing with Shift, this is an internal vault. But obviously, we are looking to expand that out to broader market participants and willing depositors, but we can discuss that separately. Why has this never been done is primarily because lack of education, lack of access. And primarily, it's been, I would argue, go as far as argue, but it has been sort of deliberately kept under wraps because it's a very, very
+
+[51:40] SPEAKER_01
+effective mechanism to capture yield. And it's sort of
+
+[51:44] SPEAKER_00
+only
+
+[51:45] SPEAKER_01
+to say top, you know, 5% of the firms globally.
+
+[51:51] SPEAKER_00
+Okay, great. So, I mean, we've learned a lot now about options and about shift and how shift and Ivy will, of course, and have already worked successfully together and will work successfully together in the future. We're nearly at the end now, and we've talked for, you know, nearly an hour now. In the background, I was just running through some little things on Vibe and was showing the audience
+
+[52:21] SPEAKER_00
+the new V2 version here. But today is about our guests. And I think I've showed a lot of things already in the background here.
+
+[52:34] SPEAKER_00
+I usually give the last minutes to our guests and let them make a couple of statements or maybe share some alpha, whatever that may be. So with that being said, Michael, if you wouldn't mind, share one or two minutes about what you want the audience to know,
+
+[52:55] SPEAKER_00
+what is coming for Shift and what everybody should be on the lookout for.
+
+[53:02] SPEAKER_02
+All right, fantastic. Give me one second.
+
+[53:09] SPEAKER_02
+There we are. Can you hear me well?
+
+[53:12] SPEAKER_00
+Yes.
+
+[53:14] SPEAKER_02
+Oh, fantastic. All right. So, first of all, I think that it's very interesting to learn that we've deployed leverage ETFs. I spoke about it a bit before, with a very hefty incentive program attached to it. So every trade comes with shift tokens as well.
+
+[53:34] SPEAKER_02
+If you're holding every buy. And I think it's interesting to see as we loaded two new shares in the past couple of weeks: SpaceX 2X long and SpaceX 2X short to the leverage ETFs. Obviously, we also have the SpaceX token itself, which was utilized for the IV. We call it beta or POC. I don't know how you want to call it, Philippe. Very successful one. First show.
+
+[54:03] SPEAKER_01
+Let's go about that.
+
+[54:04] SPEAKER_02
+First show. All right, sir. All right.
+
+[54:07] SPEAKER_02
+So yeah, a beautiful display. And we're focused on bringing more assets in the next couple of months. We're bringing yield-bearing assets, as I mentioned before, and a few other interesting things. And obviously, our utility token, RTGE, will be somewhere in 2026. hopefully earlier than later, but we're waiting for a bit of better conditions in the markets and
+
+[54:37] SPEAKER_02
+finishing our traction round right now and then go for TGE. And I think it's interesting to stick around in these early days. Come be an OG,
+
+[54:51] SPEAKER_02
+visit our socials and check out what we can do for you. Do your own research, of course, check it out. Don't buy anything you don't know how to use.
+
+[55:01] SPEAKER_02
+No, no financial advice, of course. But check us out. Very fun to play with. No million won't buy. So really easy.
+
+[55:13] SPEAKER_00
+Yes, go and check out Shift. And if you haven't done a trade, go to their website and, you know, just get like $10 in and start your first trade and just check everything out. And you'll able to also earn rewards for the airdrop then. So very, very nice. Good. From Shift and tokenizing stocks and, you know, basically letting the real world or like letting the crypto DJs have
+
+[55:43] SPEAKER_00
+a little bit of fun in the real world here or with some real world assets. We're going to Ivy and Filippo. Filippo, give us a quick, you know, two minutes of what's up for Ivy, what's on the horizon,
+
+[55:57] SPEAKER_00
+what is planned, and you know, in general, what's going on? What's happening?
+
+[56:01] SPEAKER_01
+Absolutely. Yeah. Thank you very much for having me so far. It's been great. The only thing I can say, obviously, is I'm obviously extremely biased, but I would say just follow us on X. We are going to be releasing some of the vaults that anyone can deposit to and start capturing some of the yield that they want. In terms of where ID is at the moment, we're obviously scaling quite rapidly. We will be looking to expand the team. We do have a few large foundations that have
+
+[56:31] SPEAKER_01
+already love the product and want to come on board for obvious reasons. I'm expecting that to scale quite asymmetrically over the next quarter. This is on the institutional side. When it comes to the everyday sort of user that is looking to enter the option sphere, we will also be posting some informational content on our X with regards to what an option is, how to participate, and what the value is, both academically and financially. Obviously, as Michael said,
+
+[57:01] SPEAKER_01
+this is not financial advice, this is purely up to you. Regardless, if you're interested in pubs, you should naturally be interested in options because they are both bred out of the same sort of cloth and material. So, yeah, just obviously keep an eye out. We will be releasing some of the vaults that anyone can essentially plug into. And the yields will obviously be quite attractive across the board. So, very excited for what Ivy has coming up. And we will also be integrating and keep on developing our
+
+[57:31] SPEAKER_01
+report with Shift and obviously Vibe as we go.
+
+[57:34] SPEAKER_00
+Awesome. Well, then, thank you very much, gentlemen, for coming on the stream and giving us a lot of awesome information. I think we can get some very, good clips out of this and a lot of educational content that is just hard to get out there in the abyss of crypto and Web3. But yeah, so thanks to everyone who tuned in. Over 240 people today.
+
+[58:05] SPEAKER_00
+Good, good, good, good, numbers. And we thank every single one of you guys. Check out Vibe, check out Shift, check out Ivy Markets, and let us know if you have any feedback. Let us know if you want to do something special on stream, if you want to see more activations, or in general, what you want to see from us. We're going to be back probably Friday, a little bit earlier this week, because we are invited
+
+[58:35] SPEAKER_00
+to the Shift Discord, where we will have a little bit of a stage sit-down fireside chat with Michael, Filippo, and maybe some other wonderful human beings.
+
+[58:51] SPEAKER_00
+Aside from that, like I said, check us out. If you have any questions, reach out to us.
+
+[58:57] SPEAKER_00
+Check out the interactive pitch that we're going to show on Friday again, and we're going to run over it. And yeah, I'm looking forward to the next stream. Thank you very much, everyone, for tuning in. You have a wonderful rest of your day and a wonderful rest of your week. And I'm looking forward to the next stream. Thank you. Cheers, everyone. Bye-bye. Thank you guys. Bye.
